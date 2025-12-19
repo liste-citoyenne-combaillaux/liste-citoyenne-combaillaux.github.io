@@ -1,0 +1,16 @@
+remote_theme: liste-citoyenne-combaillaux/style-modernist
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+- jekyll-feed
+
+lang: fr
+
+title: Liste citoyenne pour Combaillaux 2026
+
+header_pages: 
+ - url: programme.html
+   title: Programme
+ - url: contact.html
+   title: Nous contacter
+ - url: rencontre_citoyenne.html
+   title: Première rencontre avec les habitants
