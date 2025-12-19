@@ -1,0 +1,50 @@
+# remote_theme: pages-themes/merlot@v0.2.0
+# plugins:
+# - jekyll-remote-theme # add this line to the plugins list if you already have one
+# - jekyll-feed
+
+# remote_theme: liste-citoyenne-combaillaux/style-modernist
+# plugins:
+#  - jekyll-remote-theme # add this line to the plugins list if you already have one
+#  - jekyll-feed
+
+# lang: fr
+
+# title: Liste citoyenne pour Combaillaux 2026
+
+# header_pages: 
+#  - url: programme.html
+#    title: Nos ambitions en détail
+#  - url: contact.html
+#    title: Nous rejoindre
+#  - url: collectif.html
+#    title: Le collectif
+#  - url : cr.html
+#    title : Compte-rendus des ateliers
+
+remote_theme: hydecorp/hydejack@v9
+plugins:
+ - jekyll-remote-theme
+ - jekyll-feed
+
+lang: fr
+
+title: Combaillaux autrement 2026
+
+menu:
+ - title: Nos ambitions en détail
+   url: /programme.html
+ - title: Nous rejoindre
+   url: /contact.html
+ - title: Le collectif
+   url: /collectif.html
+#  - title: Compte-rendus des ateliers
+#    url: /cr.html
+
+# background image + color
+accent_image: /assets/img/fond.png
+accent_color: rgb(237,187,50)
+
+
+# Add custom CSS
+# custom_css: /assets/css/custom.css

@@ -1,0 +1,13 @@
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  const sidebarBg = document.querySelector('.sidebar-bg');
+  const menuBtn = document.getElementById('_menu');
+  
+  if (sidebarBg && menuBtn) {
+    sidebarBg.style.cursor = 'pointer';
+    sidebarBg.addEventListener('click', function() {
+      menuBtn.click();
+    });
+  }
+});
+</script>
