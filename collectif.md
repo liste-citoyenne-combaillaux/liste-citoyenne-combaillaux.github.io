@@ -1,0 +1,1 @@
+Au 1er janvier 2026, nous sommes une équipe multi-générationnelle de 20 habitants de Combaillaux repartis sur plusieurs secteurs du village. Nous sommes motivés pour proposer un projet municipal alternatif.

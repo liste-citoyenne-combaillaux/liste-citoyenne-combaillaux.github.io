@@ -14,8 +14,10 @@ title: Liste citoyenne pour Combaillaux 2026
 
 header_pages: 
  - url: programme.html
-   title: Programme
+   title: Nos ambitions en détail
  - url: contact.html
-   title: Nous contacter
- - url: rencontre_citoyenne.html
-   title: Première rencontre avec les habitants
+   title: Nous rejoindre
+ - url: collectif.html
+   title: Le collectif
+ - url : cr.html
+   title : Compte-rendus des ateliers
