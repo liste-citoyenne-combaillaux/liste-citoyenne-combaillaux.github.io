@@ -41,3 +41,7 @@ menu:
  - title: Compte-rendus des ateliers
    url: /cr.html
 
+# Remove default water drops background
+# accent_image: none
+# accent_color: rgb(79,177,186)
+
