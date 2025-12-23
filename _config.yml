@@ -3,9 +3,28 @@
 # - jekyll-remote-theme # add this line to the plugins list if you already have one
 # - jekyll-feed
 
-remote_theme: liste-citoyenne-combaillaux/style-modernist
+# remote_theme: liste-citoyenne-combaillaux/style-modernist
+# plugins:
+#  - jekyll-remote-theme # add this line to the plugins list if you already have one
+#  - jekyll-feed
+
+# lang: fr
+
+# title: Liste citoyenne pour Combaillaux 2026
+
+# header_pages: 
+#  - url: programme.html
+#    title: Nos ambitions en détail
+#  - url: contact.html
+#    title: Nous rejoindre
+#  - url: collectif.html
+#    title: Le collectif
+#  - url : cr.html
+#    title : Compte-rendus des ateliers
+
+remote_theme: hydecorp/hydejack@v9
 plugins:
- - jekyll-remote-theme # add this line to the plugins list if you already have one
+ - jekyll-remote-theme
  - jekyll-feed
 
 lang: fr
@@ -21,3 +40,4 @@ header_pages:
    title: Le collectif
  - url : cr.html
    title : Compte-rendus des ateliers
+
