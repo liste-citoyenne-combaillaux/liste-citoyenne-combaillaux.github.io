@@ -31,13 +31,13 @@ lang: fr
 
 title: Liste citoyenne pour Combaillaux 2026
 
-header_pages: 
- - url: programme.html
-   title: Nos ambitions en détail
- - url: contact.html
-   title: Nous rejoindre
- - url: collectif.html
-   title: Le collectif
- - url : cr.html
-   title : Compte-rendus des ateliers
+menu:
+ - title: Nos ambitions en détail
+   url: /programme.html
+ - title: Nous rejoindre
+   url: /contact.html
+ - title: Le collectif
+   url: /collectif.html
+ - title: Compte-rendus des ateliers
+   url: /cr.html
 
