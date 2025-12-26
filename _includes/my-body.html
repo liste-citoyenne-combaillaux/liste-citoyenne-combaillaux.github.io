@@ -1,18 +1,14 @@
 <script>
-// Make sidebar background clickable to toggle sidebar
-document.addEventListener('DOMContentLoaded', function() {
-  const sidebar = document.querySelector('.sidebar');
-  if (sidebar) {
-    sidebar.addEventListener('click', function(e) {
-      // Check if clicking on the sidebar background (not on nav links or content)
-      if (e.target === sidebar || e.target.classList.contains('sidebar')) {
-        // Find and click the drawer toggle button
-        const toggle = document.querySelector('[data-drawer-toggle]');
-        if (toggle) {
-          toggle.click();
-        }
+// Close drawer when clicking on the sidebar backdrop
+document.addEventListener('hy-push-state-load', function() {
+  const backdrop = document.querySelector('.hy-drawer-backdrop') || document.querySelector('[data-hy-drawer-backdrop]');
+  if (backdrop) {
+    backdrop.addEventListener('click', function() {
+      const drawerToggle = document.querySelector('hy-drawer input[type="checkbox"]');
+      if (drawerToggle) {
+        drawerToggle.checked = false;
       }
     });
   }
-});
+}, true);
 </script>
