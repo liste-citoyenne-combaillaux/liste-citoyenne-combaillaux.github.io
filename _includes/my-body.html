@@ -1,14 +1,14 @@
 <script>
-// Close drawer when clicking on the sidebar backdrop
-document.addEventListener('hy-push-state-load', function() {
-  const backdrop = document.querySelector('.hy-drawer-backdrop') || document.querySelector('[data-hy-drawer-backdrop]');
-  if (backdrop) {
-    backdrop.addEventListener('click', function() {
-      const drawerToggle = document.querySelector('hy-drawer input[type="checkbox"]');
-      if (drawerToggle) {
-        drawerToggle.checked = false;
-      }
+// Close drawer when clicking on the blue sidebar background
+document.addEventListener('DOMContentLoaded', function() {
+  const sidebarBg = document.querySelector('.sidebar-bg');
+  const menuBtn = document.getElementById('_menu');
+  
+  if (sidebarBg && menuBtn) {
+    sidebarBg.style.cursor = 'pointer';
+    sidebarBg.addEventListener('click', function() {
+      menuBtn.click();
     });
   }
-}, true);
+});
 </script>
