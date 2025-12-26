@@ -1,12 +1,13 @@
 <script>
-// Make sidebar background clickable to close sidebar
+// Make sidebar background clickable to toggle sidebar
 document.addEventListener('DOMContentLoaded', function() {
-  const drawer = document.querySelector('[data-component="drawer"]');
-  if (drawer) {
-    drawer.addEventListener('click', function(e) {
-      // Only close if clicking on the drawer background itself, not on content
-      if (e.target === drawer) {
-        const toggle = document.querySelector('[data-action="drawer-toggle"]');
+  const sidebar = document.querySelector('.sidebar');
+  if (sidebar) {
+    sidebar.addEventListener('click', function(e) {
+      // Check if clicking on the sidebar background (not on nav links or content)
+      if (e.target === sidebar || e.target.classList.contains('sidebar')) {
+        // Find and click the drawer toggle button
+        const toggle = document.querySelector('[data-drawer-toggle]');
         if (toggle) {
           toggle.click();
         }
