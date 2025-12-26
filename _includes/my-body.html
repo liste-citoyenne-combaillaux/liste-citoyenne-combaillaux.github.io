@@ -1,0 +1,17 @@
+<script>
+// Make sidebar background clickable to close sidebar
+document.addEventListener('DOMContentLoaded', function() {
+  const drawer = document.querySelector('[data-component="drawer"]');
+  if (drawer) {
+    drawer.addEventListener('click', function(e) {
+      // Only close if clicking on the drawer background itself, not on content
+      if (e.target === drawer) {
+        const toggle = document.querySelector('[data-action="drawer-toggle"]');
+        if (toggle) {
+          toggle.click();
+        }
+      }
+    });
+  }
+});
+</script>
