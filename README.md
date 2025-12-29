@@ -5,10 +5,10 @@
 
 **DESCRIPTIF ICI (À CHANGER)** : _En vue des élections municipales, notre collectif s'est formé pour proposer aux habitants un projet electoral différent de celui en place depuis deux décennies. Notre objectif est de construire un programme autour de mesures citoyennes. Nous avons donc besoin de vous pour partager vos attentes et nous aider à constituer une liste électorale._
 _Quelques unes de nos idées phares (issues des ateliers de travail déjà réalisés) :_
+* _Concertation **systématique** entre les habitants pour **tous** les projets (avant et après les élections)_
+* _Désenclaver Combaillaux : aménagements piétons et cyclables_
 * _Finaliser **réellement** le PLU_
 * _Permis de construire dans le respect de l'identité naturelle du village_
-* _Désenclaver Combaillaux : aménagements piétons et cyclables_
-* _Concertation **systématique** avec les habitants pour **tous** les projets_
 * _Redynamiser la vie du village_
 * _Promouvoir les projets agro-écologiques_
 
