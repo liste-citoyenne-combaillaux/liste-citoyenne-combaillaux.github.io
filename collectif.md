@@ -1,4 +1,23 @@
-Nous sommes une équipe motivée pour proposer un projet municipal **alternatif** à ce qui est en place depuis de nombreuses années sur Combaillaux.
+---
+layout: page
+title: Qui sommes-nous ?
+---
+
+<style>
+h3 {
+  margin-left: 1.5rem !important;
+  padding-left: 1rem;
+  border-left: 3px solid #4a9eff;
+}
+
+h3 + ul,
+h3 + ol,
+h3 + p + ul {
+  margin-left: 2rem;
+}
+</style>
+
+Une équipe motivée pour proposer un projet municipal **alternatif** à ce qui est en place depuis de nombreuses années sur Combaillaux.
 
 **Cette liste se veut plurielle et dynamique** :
 
