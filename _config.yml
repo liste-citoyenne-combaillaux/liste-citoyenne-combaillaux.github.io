@@ -38,8 +38,8 @@ menu:
    url: /contact.html
  - title: Le collectif
    url: /collectif.html
- - title: Compte-rendus des ateliers
-   url: /cr.html
+#  - title: Compte-rendus des ateliers
+#    url: /cr.html
 
 # Remove default water drops background
 # accent_image: none

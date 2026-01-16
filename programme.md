@@ -1,4 +1,7 @@
-# MESURES PRATIQUES
+---
+layout: page
+title: MESURES PRATIQUES
+---
 
 ## 1/ Débattre pour construire ensemble notre avenir
 
