@@ -36,7 +36,11 @@ h3 + p + ul {
 2. **🗳️ Pour une démocratie participative**
 
    * 📰 Ouverture d'une tribune dans le journal municipal l'Aïol
-   * 💬 Création d'un espace de discussion et d'échanges en ligne sur le site de la mairie et mise en place d'un schéma numérique
+   * Refonte totale du site http://www.combaillaux.fr/ afin de :
+        * 💬 Création d'un espace de discussion et d'échanges en ligne
+        * 📄 Centraliser et mettre à disposition tous les comptes-rendus des conseils municipaux, les budgets, les documents d'urbanisme, les appels d'offres, etc.
+        * 📢 Annoncer les événements et initiatives locales
+   * Mise en place d'un schéma numérique
    * 🎤 Multiplication des lieux et des temps de parole
 
 ## 2/ 🌱 Agir pour une commune vivante
