@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Accueil
+title: COMBAILLAUX EN MOUVEMENT 2026
 cover: true
 ---
 

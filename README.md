@@ -1,8 +1,3 @@
----
-layout: page
-title: COMBAILLAUX EN MOUVEMENT 2026
----
-
 **CREONS DES LIENS ET AGISSONS ENSEMBLE**
 
 _En vue des élections municipales, notre collectif s'est formé pour proposer aux habitants un projet electoral différent de celui en place depuis deux décennies. C'est une **liste citoyenne participative** à l’initiative des habitants-es de Combaillaux. La liste est animée collectivement et les axes comme les mesures prioritaires sont débattus et affinés par l’organisation de réunions régulières et ouvertes.
