@@ -29,7 +29,7 @@ plugins:
 
 lang: fr
 
-title: Liste citoyenne pour Combaillaux 2026
+title: Combaillaux autrement 2026
 
 menu:
  - title: Nos ambitions en détail
@@ -41,7 +41,10 @@ menu:
 #  - title: Compte-rendus des ateliers
 #    url: /cr.html
 
-# Remove default water drops background
+# background image + color
 accent_image: /assets/img/fond.png
 accent_color: rgb(237,187,50)
 
+
+# Add custom CSS
+custom_css: /assets/css/custom.css
