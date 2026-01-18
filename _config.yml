@@ -42,6 +42,6 @@ menu:
 #    url: /cr.html
 
 # Remove default water drops background
-accent_image: none
+accent_image: /assets/img/fond.png
 accent_color: rgb(237,187,50)
 
