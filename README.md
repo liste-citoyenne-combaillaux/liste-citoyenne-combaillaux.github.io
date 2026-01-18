@@ -1,7 +1,7 @@
 **CREONS DES LIENS ET AGISSONS ENSEMBLE**
 
 _En vue des élections municipales, notre collectif s'est formé pour proposer aux habitants un projet electoral différent de celui en place depuis deux décennies. C'est une **liste citoyenne participative** à l’initiative des habitants-es de Combaillaux. La liste est animée collectivement et les axes comme les mesures prioritaires sont débattus et affinés par l’organisation de réunions régulières et ouvertes.
-Aujourd’hui, nous voulons gagner cette élection pour mettre Combaillaux en mouvement._
+Aujourd’hui, nous voulons gagner cette élection pour administrer Combaillaux autrement._
 
 <!-- 
 _Quelques unes de nos idées phares (issues des ateliers de travail déjà réalisés) :_
