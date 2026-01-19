@@ -1,20 +1,6 @@
-<!-- Preload the background image -->
-<link rel="preload" as="image" href="/assets/img/fond.png">
-
 <style>
-  /* Override default Hydejack background immediately */
-  body::before,
-  body {
-    background-image: url('/assets/img/fond.png') !important;
-    background-color: transparent !important;
-  }
   
-  /* Also override any sidebar backgrounds if needed */
-  .sidebar {
-    background-image: url('/assets/img/fond.png') !important;
-  }
-
-  /* This targets the <h2> with class "h1" specifically */
+/* This targets the <h2> with class "h1" specifically */
   h2.h1, 
   .sidebar-about h2.h1,
   .site-title.h1 {
@@ -28,7 +14,6 @@
     padding-left: 1rem !important;
     padding-right: 1rem !important;
   }
-  
   /* This targets the sidebar navigation links in Hydejack v9 */
   .nav-list-item > a,
   .nav-list-item > span,
