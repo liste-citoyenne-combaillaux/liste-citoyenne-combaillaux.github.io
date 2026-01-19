@@ -1,6 +1,5 @@
 ---
 layout: page
-title: COMBAILLAUX AUTREMENT
 cover: true
 ---
 

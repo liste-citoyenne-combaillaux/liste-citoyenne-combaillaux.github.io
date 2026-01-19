@@ -1,10 +1,6 @@
 <style>
-  body::before {
-    background-image: none !important;
-    display: none !important;
-  }
-  
-/* This targets the <h2> with class "h1" specifically */
+
+ /* This targets the <h2> with class "h1" specifically */
   h2.h1, 
   .sidebar-about h2.h1,
   .site-title.h1 {
@@ -46,4 +42,47 @@
     margin-bottom: 2rem;
     padding-bottom: 1rem;
   }
+
+  /* Make content links blue */
+  .content a,
+  .markdown-body a,
+  article a {
+    color: #0066CC !important;
+  }
+  
+  .content a:visited,
+  .markdown-body a:visited,
+  article a:visited {
+    color: #0047AB !important;
+  }
+  
+  .content a:hover,
+  .markdown-body a:hover,
+  article a:hover {
+    color: #3399FF !important;
+  }
+
+  /* Agrandir le contenu des articles : à corriger ici*/
+  /* article.page {
+    max-width: 900px !important;
+    padding: 2rem !important;
+    margin: 2rem auto !important;
+  } */
+
+  /* Add subtitle text below title in sidebar */
+  .sidebar-about > a.sidebar-title::after {
+    content: "Municipales du 15 mars : Créons des liens et agissons ensemble";
+    display: block;
+    font-size: 1.25rem !important;
+    font-weight: 500 !important;
+    color: rgba(147, 219, 153, 0.7);
+    margin-top: 0.5rem;
+    border-bottom: none !important;
+    width: 100%;
+  }
+  
+  .sidebar-about > a.sidebar-title {
+    padding-bottom: 0 !important;
+  }
+
 </style>

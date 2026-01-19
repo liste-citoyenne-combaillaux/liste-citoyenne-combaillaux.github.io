@@ -22,28 +22,39 @@
 #  - url : cr.html
 #    title : Compte-rendus des ateliers
 
+
+repository: username/liste-citoyenne-combaillaux.github.io
+
 remote_theme: hydecorp/hydejack@v9
 plugins:
  - jekyll-remote-theme
  - jekyll-feed
+    
+# Configuration spécifique à Hydejack
+logo: /assets/icons/icon.png
+favicon: /assets/icons/favicon.ico
+apple_touch_icon: /assets/icons/apple-touch-icon.png
 
 lang: fr
 
-title: Combaillaux autrement 2026
+title: Combaillaux Autrement 2026
 
 menu:
- - title: Nos ambitions en détail
+ - title: Notre programme
    url: /programme.html
  - title: Nous rejoindre
    url: /contact.html
  - title: Le collectif
    url: /collectif.html
+ - title: Documentation
+   url: /documents.html
 #  - title: Compte-rendus des ateliers
 #    url: /cr.html
 
 # background image + color
 accent_image: /assets/img/fond.png
 # accent_color: rgb(237,187,50)
+accent_color: 'transparent'
 
 
 # Add custom CSS

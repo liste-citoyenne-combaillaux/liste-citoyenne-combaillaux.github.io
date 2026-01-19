@@ -15,76 +15,101 @@ h3 + ol,
 h3 + p + ul {
   margin-left: 2rem;
 }
+
+/* Cache les puces noires par défaut pour laisser place aux emojis */
+ul {
+  list-style-type: none;
+}
+
+/* Augmente l'indentation des sous-listes */
+ul ul {
+  margin-left: 3rem;
+  padding-left: 0;
+}
 </style>
 
-## 1/ 🗣️ Débattre pour construire ensemble notre avenir
+## Débattre pour construire ensemble notre avenir
 
-1. **🔍 Pour une gestion transparente de la commune**
+1. **🔍 Gestion transparente de la commune**
 
-   **📊 Audit sur les coûts et le fonctionnement des grandes infrastructures :**
+   **Audit sur les coûts et le fonctionnement des grandes infrastructures :**
    
-   * 🏘️ Nouveau cœur de village
-   * 💧 Station d'épuration
-   * ⛏️ Carrière et production d'eau potable sur le site du Redonel
+   * 🔹 Nouveau cœur de village
+   * 🔹 Station d'épuration
+   * 🔹 Carrière et production d'eau potable sur le site du Redonel
 
-   **🎯 Objectifs :**
+   **Objectifs :**
    
-   * 💰 Maîtriser le niveau d'endettement, les engagements contractuels
-   * 🌡️ Évaluer les niveaux de pollution des eaux, de l'air et les menaces produites par ces infrastructures sur la sécurité et la santé des habitants et des habitantes
-   * 🤝 Mobiliser les réseaux de financements et porter la voix de la commune à toutes les échelles de décision
+   * 🔹 Maîtriser le niveau d'endettement et les engagements contractuels
+   * 🔹 Évaluer les niveaux de pollution (eaux, air) et les menaces pour la sécurité/santé
+   * 🔹 Mobiliser les réseaux de financements et porter la voix de la commune : CCGPSL, Département, Région
 
-2. **🗳️ Pour une démocratie participative**
+2. **🗳️ Démocratie participative**
 
-   * 📰 Ouverture d'une tribune dans le journal municipal l'Aïol
-   * Refonte totale du site http://www.combaillaux.fr/ afin de :
-        * 💬 Création d'un espace de discussion et d'échanges en ligne
-        * 📄 Centraliser et mettre à disposition tous les comptes-rendus des conseils municipaux, les budgets, les documents d'urbanisme, les appels d'offres, etc.
-        * 📢 Annoncer les événements et initiatives locales
-   * Mise en place d'un schéma numérique
-   * 🎤 Multiplication des lieux et des temps de parole
+   * 🔹 Concertation **très régulière** avec la population :
+        * ▪  Multiplication des lieux et des temps de parole
+        * ▪  Prise en compte des propositions citoyennes
+   * 🔹 Refonte totale du site [**www.combaillaux.fr**](http://www.combaillaux.fr) :
+        * ▪  Création d'un espace de discussion et d'échanges en ligne
+        * ▪  Centralisation de tous les documents **disponibles en ligne** (comptes-rendus, budgets, documents d'urbanisme, appels d'offre etc.)
+        * ▪  Agenda des événements et initiatives locales
+   * 🔹 Ouverture d'une tribune dans le journal municipal l'_Aïol_
+   * 🔹 Plan numérique pour simplifier les démarches et l'accessibilité
 
-## 2/ 🌱 Agir pour une commune vivante
 
-1. **🤲 Inciter aux échanges de savoir-faire**
+## Repenser urbanisme, infrastructures et mobilités
 
-   * 📚 Organiser des cycles d'événements thématiques sur le jardinage, la construction, l'informatique, etc.
-   * 🦋 Initier à la botanique et l'ornithologie en vue de la réalisation d'un Atlas de la Biodiversité Communale (ABC)
-   * 🏡 Ouvrir un lieu de vie : lieu intergénérationnel, repair-café, etc.
 
-2. **✨ Valoriser les projets et initiatives individuelles ou collectives**
+1. **🌍 Urbanisme et Climat (PLU)**
 
-   * 🎭 Accompagner des projets culturels et lancer des dynamiques d'éducation populaire
-   * 🌾 Développer des activités agro-écologiques vivrières
-   * 🤝 Miser sur le tissu associatif et la dynamique agricole de notre territoire
-   * 💼 Développer des partenariats privés et les recherches de financement (transports, énergie, santé, agriculture, commerce et consommation de proximité)
+   * 🔹 [Réhabilitation de la lombristation](documents/lombristation_reponse_DDTM.jpg) et **refus catégorique** d'une [mega-station d'épuration commune pour St Gély et Combaillaux](documents/schema_directeur_rapport_expertise_partie_Combaillaux_25_09_2025.pdf) implantée à Combaillaux
+   * 🔹 Gérer et protéger la ressource en eau : nappe phréatique, eau potable, zone de captage, récupération des eaux pluviales etc.
+   * 🔹 Désimperméabilisation de la cour d'école et du parking coeur du village
+   * 🔹 Meilleure prise en compte des risques lors de l'attribution des permis de construire (argiles gonflantes, inondations, incendies)
+   * 🔹 Adaptation aux extrêmes climatiques
+   * 🔹 Repenser et publier enfin le PLU, bloqué depuis des années
 
-3. **🚜 Favoriser une agriculture locale, bio et durable**
+2. **🚶 🚴 Déployer un réseau de cheminements doux**
 
-   * 📋 Inventorier le foncier communal
-   * 🗺️ Définir et mettre en œuvre une stratégie foncière
-   * 🔄 Animer le foncier (achat, vente, locations etc.)
-   * 🌿 Soutenir des projets d'installation agricoles
+   * 🔹 Cartographie des sentiers (ruraux, équestres...)
+   * 🔹 Généraliser les trottoirs sur toute la commune pour la sécurité des piétons
+   * 🔹 Favoriser les pistes cyclables pour circuler dans Combaillaux et vers l'extérieur
+   * 🔹 Connexion vers les périphéries :
+        * ▪  accès au terminus bus 24 au Pradas
+        * ▪  négociation avec la région pour augmenter la fréquence du bus 616 (réduite récemment)
+   * 🔹 Liaison entre les lieux-dits isolés pour relier les habitants entre eux
 
-## 3/ 🏗️ Repenser urbanisme et mobilités
+3. **🏛️ Investir dans le logement communal et le patrimoine**
 
-1. **🌍 Pour s'adapter aux changements climatiques, élaborer un PLU avec un volet climat**
+   * 🔹 Rénovation de l'ancienne Mairie pour le logement
+   * 🔹 Valorisation du patrimoine (vieux village, Sajolles)
+   * 🔹 Rénovation du vieux cimetière
+   * 🔹 Recherche de cofinancements pour limiter l'investissement communal
+   * 🔹 Généralisation du photovoltaïque sur les bâtiments publics
 
-   * 💧 Gérer et protéger la ressource en eau en quantité et en qualité : nappe phréatique, eau potable, zone de captage, récupération des eaux pluviales etc.
-   * 🏠 Prise en compte des argiles gonflantes lors de l'attribution des permis de construire
-   * ⚠️ Prévoir les mesures pour s'adapter aux extrêmes : inondations, incendies etc.
 
-2. **🚶 Pour déployer un réseau de cheminements doux**
+## Agir pour une commune vivante
 
-   * 🗺️ Cartographier les cheminements de la commune (chemins ruraux, sentiers équestres, etc.)
-   * 🚌 Mettre en place des services garantissant la connexion vers les périphéries (exemple d'accès au terminus du bus 24)
-   * 🛤️ Développer des cheminements entre les lieux-dits isolés de la commune pour relier les gens entre eux
+1. **Inciter les échanges de savoir-faire**
 
-3. **🏛️ Pour investir dans le logement communal, rénover l'ancienne mairie**
+   * 🔹 Cycles d'événements thématiques (jardinage, construction, informatique...)
+   * 🔹 Initiation botanique/ornithologie pour l'Atlas de la Biodiversité Communale (ABC)
+   * 🔹 Création d'un lieu de vie intergénérationnel (type repair-café)
 
-   * 🔨 Investir dans la rénovation de l'ancienne Mairie pour répondre au besoin de logements des personnes qui peinent à se loger
-   * 🏘️ Lancer une dynamique du vieux centre-bourg
-   * 💶 Chercher les cofinancements pour réduire l'investissement de la commune
+2. **Valoriser les projets et initiatives individuelles ou collectives**
+
+   * 🔹 Accompagnement de projets culturels et d'éducation populaire
+   * 🔹 Développement d'activités agro-écologiques vivrières
+   * 🔹 Soutien au tissu associatif et à la dynamique agricole de notre territoire
+   * 🔹 Développer des partenariats privés et recherche de financements (transports, énergie, santé, agriculture, commerce et consommation de proximité)
+
+3. **Favoriser une agriculture locale, bio et durable**
+
+   * 🔹 Inventaire du foncier communal
+   * 🔹 Définir et mettre en œuvre une stratégie foncière
+   * 🔹 Animation du foncier (achat, vente, location)
+   * 🔹 Soutien à l'installation agricole
 
 ---
 
-💬 Ces mesures font l'objet d'une construction collective. Nous utilisons des outils collaboratifs pour intégrer progressivement les propositions de chacun.
+💬 **Ces mesures font l'objet d'une construction collective. Nous utilisons des outils collaboratifs pour intégrer progressivement les propositions de chacun.**
