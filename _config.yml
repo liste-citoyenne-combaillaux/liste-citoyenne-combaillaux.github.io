@@ -43,7 +43,7 @@ menu:
 
 # background image + color
 accent_image: /assets/img/fond.png
-accent_color: rgb(237,187,50)
+# accent_color: rgb(237,187,50)
 
 
 # Add custom CSS
