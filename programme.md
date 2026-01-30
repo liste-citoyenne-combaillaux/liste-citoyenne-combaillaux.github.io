@@ -51,7 +51,7 @@ ul ul {
         * ▪  Prise en compte des propositions citoyennes
    * 🔹 Refonte totale du site [**www.combaillaux.fr**](http://www.combaillaux.fr) :
         * ▪  Création d'un espace de discussion et d'échanges en ligne
-        * ▪  Centralisation de tous les documents **disponibles en ligne** (comptes-rendus, budgets, documents d'urbanisme, appels d'offre etc.)
+        * ▪  Centralisation sur ce site **de tous les documents** (comptes-rendus, budgets, documents d'urbanisme, appels d'offre etc.)
         * ▪  Agenda des événements et initiatives locales
    * 🔹 Ouverture d'une tribune dans le journal municipal l'_Aïol_
    * 🔹 Plan numérique pour simplifier les démarches et l'accessibilité
