@@ -28,3 +28,6 @@ versants ou les hauteurs de la commune
 * **Déjà investis sur le terrain** : actifs dans les associations, l'animation locale et les échanges de savoir-faire
 * Désireux de construire ensemble l’avenir
 * **Un mode de fonctionnement horizontal** : pas de maire qui décide seul, mais une équipe qui construit et porte les projets collectivement
+
+
+Contactez-nous (<a href="mailto://contact@combaillaux-autrement.fr">contact@combaillaux-autrement.fr</a>) pour partager vos idées ou encore mieux, nous rejoindre !
