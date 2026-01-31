@@ -19,5 +19,5 @@ Vous avez le choix : celui de **porter une équipe nouvelle aux responsabilités
 
 
 **Plus d'informations très bientôt...**  
-En attendant, n'hésitez pas à [nous contacter](contact.html) — échangeons ensemble sur l'avenir de Combaillaux !
+En attendant, n'hésitez pas à [nous contacter](contact.html) — échangeons ensemble sur l'avenir de Combaillaux ! Et **rejoignez-nous** si cela vous intéresse !
 
