@@ -18,5 +18,5 @@ Dans cette section nous avons essayé de rassembler un maximum de **documents of
     * Enfin, voici [le rapport d'expertise complet](documents/deliberation_CCGPSL_2025-05-13.pdf) pour toute la communauté de communes (attention document volumineux).
 
 ## Pistes cyclables
-Dans le dernier [Baromètre des villes cyclables (2025)](https://www.barometre-velo.fr/2025/) de la FUB (Fédération des Usagers de la Bicyclette), [Combaillaux est classé comme ville "Très défavorable" aux cyclistes](https://www.barometre-velo.fr/2025/documents/Occitanie.pdf). Voici le détails avec la carte de Combaillaux et les notes attribuées : https://www.barometre-velo.fr/2025/palmares/#13.54/43.67438/3.77143
+Dans le dernier [Baromètre des villes cyclables (2025)](https://www.barometre-velo.fr/2025/) de la FUB (Fédération des Usagers de la Bicyclette), [Combaillaux est classé comme ville "Très défavorable" aux cyclistes](https://www.barometre-velo.fr/2025/documents/Occitanie.pdf). Voici le détails avec la carte de Combaillaux et les notes attribuées : [https://www.barometre-velo.fr/2025/palmares/#13.54/43.67438/3.77143](https://www.barometre-velo.fr/2025/palmares/#13.54/43.67438/3.77143)
 
