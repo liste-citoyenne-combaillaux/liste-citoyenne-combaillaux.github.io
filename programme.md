@@ -52,7 +52,7 @@ ul ul {
    * 🔹 Refonte totale du site [**www.combaillaux.fr**](http://www.combaillaux.fr) :
         * ▪  Création d'un espace de discussion et d'échanges en ligne
         * ▪  Centralisation sur ce site **de tous les documents** (comptes-rendus, budgets, documents d'urbanisme, appels d'offre etc.)
-        * ▪  Agenda des événements et initiatives locales
+        * ▪  Agenda des événements et initiatives locales - communication renforcée sur [IntraMuros](https://www.intramuros.org/combaillaux/actualites?status=300&categorie=city)
    * 🔹 Ouverture d'une tribune dans le journal municipal l'_Aïol_
    * 🔹 Plan numérique pour simplifier les démarches et l'accessibilité
 
@@ -102,6 +102,7 @@ ul ul {
    * 🔹 Développement d'activités agro-écologiques vivrières
    * 🔹 Soutien au tissu associatif et à la dynamique agricole de notre territoire
    * 🔹 Développer des partenariats privés et recherche de financements (transports, énergie, santé, agriculture, commerce et consommation de proximité)
+   * 🔹 Travailler en étroite collaboration avec les entreprises locales en les informant systématiquement des projets envisagés
 
 3. **Favoriser une agriculture locale, bio et durable**
 
