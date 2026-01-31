@@ -87,6 +87,19 @@
   
   .sidebar-about > a.sidebar-title {
     padding-bottom: 0 !important;
+    transition: all 0.3s ease !important;
+    cursor: pointer !important;
+  }
+
+  .sidebar-about > a.sidebar-title:hover {
+    opacity: 1 !important;
+    transform: scale(1.2) !important;
+    color: rgba(255, 215, 0, 1) !important;
+    text-shadow: 0 0 10px rgba(255, 215, 0, 0.6) !important;
+  }
+
+  .sidebar-about > a.sidebar-title::before {
+    content: "" !important;
   }
 
   /* Make logo larger */
