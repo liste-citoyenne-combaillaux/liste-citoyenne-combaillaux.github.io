@@ -9,10 +9,9 @@ Dans cette section nous avons essayé de rassembler un maximum de **documents of
 
 * En janvier 2024, la prefecture de l'Hérault a mis en demeure la CCGPSL de réhabiliter la lombristation existante, car plusieurs dysfonctionnements ont été constatés :
     * [Lettre du prefet](documents/lombristation_reponse_DDTM.jpg) du 18 novembre 2024 indiquant l'existence de la procédure
-    * Deuxièm [Lettre du prefet](documents/DDTM_STEP_Combaillaux_suspension_temporaire.pdf) du 16 décembre 2024 indiquant la suspension de la procédure jusqu'au début 2026, pour laisser le temps à la CCGPSL de réhabiliter la station existante.
+    * Deuxième [Lettre du prefet](documents/DDTM_STEP_Combaillaux_suspension_temporaire.pdf) du 16 décembre 2024 indiquant la suspension de la procédure jusqu'au début 2026, pour laisser le temps à la CCGPSL de réhabiliter la station existante.
 
 * Le 13 mai 2025 la CCGPSL a adopté le schéma directeur d'alimentation en eau potable du Grand Pic Saint-Loup.
-    * 22 voix pour, 12 abstentions et 0 voix contre - aucun élu ne s'est opposé au projet de méga-station d'épuration commune à St Gély et Combaillaux
-    * Voici le [Procés vérbal CCGPSL](documents/Proces_verbal_conseil_2025-05-13.pdf) complet
-    * Voici [extrait du rapport d'expertise concernant Combaillaux](documents/schema_directeur_rapport_expertise_partie_Combaillaux_25_09_2025.pdf), où le projet de méga-station d'épuration commune à St Gély et Combaillaux sur les terres de Combaillaux est présenté comme Scénario nr. 1 !
-    * Voici  [le rapport d'expertise complet](documents/deliberation_CCGPSL_2025-05-13.pdf) pour toute la communauté de communes.
+    * 22 voix pour, 12 abstentions et 0 voix contre - aucun élu ne s'est opposé. Vous pouvez consulter le [Procés vérbal CCGPSL](documents/Proces_verbal_conseil_2025-05-13.pdf) complet de cette réunion.
+    * Voici [extrait du rapport d'expertise concernant Combaillaux](documents/schema_directeur_rapport_expertise_partie_Combaillaux_25_09_2025.pdf), discuté et voté durant cette séance, où le projet de méga-station d'épuration commune à St Gély et Combaillaux sur les terres de Combaillaux est présenté comme Scénario nr. 1 !
+    * Enfin, voici [le rapport d'expertise complet](documents/deliberation_CCGPSL_2025-05-13.pdf) pour toute la communauté de communes (attention document volumineux).
