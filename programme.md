@@ -90,10 +90,10 @@ ul ul {
 
 ## Agir pour une commune vivante
 
-1. **Inciter les échanges de savoir-faire**
+1. **Inciter aux échanges de connaissances et de savoir-faire**
 
    * 🔹 Cycles d'événements thématiques (jardinage, construction, informatique...)
-   * 🔹 Initiation botanique/ornithologie pour l'Atlas de la Biodiversité Communale (ABC)
+   * 🔹 Initiation botanique/ornithologie en vue de raliser l'Atlas de la Biodiversité Communale (ABC)
    * 🔹 Création d'un lieu de vie intergénérationnel (type repair-café)
 
 2. **Valoriser les projets et initiatives individuelles ou collectives**
@@ -102,7 +102,7 @@ ul ul {
    * 🔹 Développement d'activités agro-écologiques vivrières
    * 🔹 Soutien au tissu associatif et à la dynamique agricole de notre territoire
    * 🔹 Développer des partenariats privés et recherche de financements (transports, énergie, santé, agriculture, commerce et consommation de proximité)
-   * 🔹 Travailler en étroite collaboration avec les entreprises locales en les informant systématiquement des projets envisagés
+   * 🔹 Travailler en étroite collaboration avec les entreprises locales en les consultant systématiquement quant aux projets envisagés
 
 3. **Favoriser une agriculture locale, bio et durable**
 
