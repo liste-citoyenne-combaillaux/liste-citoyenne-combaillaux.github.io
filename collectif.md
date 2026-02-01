@@ -22,7 +22,7 @@ Une équipe motivée pour proposer un projet municipal **alternatif** à ce qui 
 **Cette liste se veut plurielle et dynamique** :
 
 * Femmes et hommes de **différentes générations**
-* Habitant différents lieux dits de Combaillaux que ce soit dans la plaine, les
+* Habitant **différents lieux dits de Combaillaux** que ce soit dans la plaine, les
 versants ou les hauteurs de la commune
 * Portés par des **savoir-faire variés** : expériences dans le culturel, le social, l’éducation, l'agriculture, la santé, les sports, la gestion, l'informatique, les sciences ou l’écologie.
 * **Déjà investis sur le terrain** : actifs dans les associations, l'animation locale et les échanges de savoir-faire
