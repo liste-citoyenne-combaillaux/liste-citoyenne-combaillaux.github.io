@@ -28,6 +28,13 @@ ul ul {
 }
 </style>
 
+
+
+<a href="/assets/img/Carte_mentale_complete.png">
+   <img src="/assets/img/Carte_mentale_synthetique.png" alt="Carte mentale synthétique" style="max-width: 820px; width: 100%; height: auto;" />
+</a>
+
+
 ## Débattre pour construire ensemble notre avenir
 
 1. **🔍 Gestion transparente de la commune**
