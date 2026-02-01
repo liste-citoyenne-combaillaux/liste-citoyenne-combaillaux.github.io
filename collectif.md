@@ -21,13 +21,13 @@ Une équipe motivée pour proposer un projet municipal **alternatif** à ce qui 
 
 **Cette liste se veut plurielle et dynamique** :
 
-* Femmes et hommes de différentes générations
+* Femmes et hommes de **différentes générations**
 * Habitant différents lieux dits de Combaillaux que ce soit dans la plaine, les
 versants ou les hauteurs de la commune
-* Portés par des savoir-faire variés : expériences dans le culturel, le social, l’éducation, l'agriculture, la santé, les sports, la gestion, l'informatique, les sciences ou l’écologie.
+* Portés par des **savoir-faire variés** : expériences dans le culturel, le social, l’éducation, l'agriculture, la santé, les sports, la gestion, l'informatique, les sciences ou l’écologie.
 * **Déjà investis sur le terrain** : actifs dans les associations, l'animation locale et les échanges de savoir-faire
-* Désireux de construire ensemble l’avenir
-* **Un mode de fonctionnement horizontal** : pas de maire qui décide seul, mais une équipe qui construit et porte les projets collectivement
+* Désireux de **construire ensemble** l’avenir de Combaillaux
+* Avec **un mode de fonctionnement horizontal** : pas de maire qui décide seul, mais une équipe qui construit et porte les projets collectivement
 
 
 Contactez-nous (<a href="mailto://contact@combaillaux-autrement.fr">contact@combaillaux-autrement.fr</a>) pour partager vos idées ou encore mieux, nous rejoindre !
