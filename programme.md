@@ -47,14 +47,14 @@ ul ul {
 2. **🗳️ Démocratie participative**
 
    * 🔹 Concertation **très régulière** avec la population :
-        * ▪  Multiplication des lieux et des temps de parole
+        * ▪  Multiplication des lieux et des temps d'échanges
         * ▪  Prise en compte des propositions citoyennes
    * 🔹 Refonte totale du site [**www.combaillaux.fr**](http://www.combaillaux.fr) :
         * ▪  Création d'un espace de discussion et d'échanges en ligne
         * ▪  Centralisation sur ce site **de tous les documents** (comptes-rendus, budgets, documents d'urbanisme, appels d'offre etc.)
         * ▪  Agenda des événements et initiatives locales - communication renforcée sur [IntraMuros](https://www.intramuros.org/combaillaux/actualites?status=300&categorie=city)
    * 🔹 Ouverture d'une tribune dans le journal municipal l'_Aïol_
-   * 🔹 Plan numérique pour simplifier les démarches et l'accessibilité
+   * 🔹 Elaboration d'un plan numérique pour simplifier les démarches et l'accessibilité
 
 
 ## Repenser urbanisme, infrastructures et mobilités
@@ -62,7 +62,7 @@ ul ul {
 
 1. **🌍 Urbanisme et Climat (PLU)**
 
-   * 🔹 [Réhabilitation de la lombristation](documents/lombristation_reponse_DDTM.jpg) et **refus catégorique** d'une [mega-station d'épuration commune pour St Gély et Combaillaux](documents/schema_directeur_rapport_expertise_partie_Combaillaux_25_09_2025.pdf) implantée à Combaillaux
+   * 🔹 [Réhabilitation de la lombristation](documents/lombristation_reponse_DDTM.jpg) et refus catégorique d'une [mega-station d'épuration commune pour St Gély et Combaillaux](documents/schema_directeur_rapport_expertise_partie_Combaillaux_25_09_2025.pdf) implantée à Combaillaux
    * 🔹 Gérer et protéger la ressource en eau : nappe phréatique, eau potable, zone de captage, récupération des eaux pluviales etc.
    * 🔹 Désimperméabilisation de la cour d'école et du parking coeur du village
    * 🔹 Meilleure prise en compte des risques lors de l'attribution des permis de construire (argiles gonflantes, inondations, incendies)
@@ -113,4 +113,4 @@ ul ul {
 
 ---
 
-💬 **Ces mesures font l'objet d'une construction collective. Nous utilisons des outils collaboratifs pour intégrer progressivement les propositions de chacun.**
+💬 **Ces mesures font l'objet d'une construction collective. Nous utilisons des outils collaboratifs pour intégrer progressivement les propositions de chacun. Rejoignez-nous !**
