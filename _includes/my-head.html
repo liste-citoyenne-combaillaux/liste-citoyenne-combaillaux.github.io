@@ -2,6 +2,13 @@
 
 <style>
 
+  @font-face {
+    font-family: 'Fineday';
+    src: url('/Fineday/Fineday-StyleOne.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+  }
+  
   html,
   body {
     overflow-y: auto !important;
@@ -10,20 +17,33 @@
   }
 
  /* This targets the <h2> with class "h1" specifically */
-  h2.h1, 
-  .sidebar-about h2.h1,
-  .site-title.h1 {
-    font-family: 'Delius Swash Caps', cursive !important;
-    font-size: 3.4rem !important; /* Adjust this to your liking */
-    font-weight: 800 !important;
-    line-height: 1.1 !important;
-    margin-top: 1rem !important;
-    margin-bottom: 1.5rem !important;
-    display: block !important;
-    width: 100% !important;
-    padding-left: 1rem !important;
-    padding-right: 1rem !important;
-  }
+h2.h1,
+.sidebar-about h2.h1,
+.site-title.h1 {
+  font-family: 'Fineday', cursive !important;
+  font-size: 4rem !important;
+  font-weight: 900 !important;
+  color: #323232 !important;
+  line-height: 1.1 !important;
+
+  /* FAUX BOLD /
+  text-shadow:
+    1px 0 0 #1f1f1f,
+    -1px 0 0 #1f1f1f,
+    0 1px 0 #1f1f1f,
+    0 -1px 0 #1f1f1f,
+    1px 1px 0 #1f1f1f,
+    -1px -1px 0 #1f1f1f,
+    -1px 1px 0 #1f1f1f,
+    1px -1px 0 #1f1f1f;
+
+  / CONTOUR VERT */
+  -webkit-text-stroke: 15px #97d18e;
+  paint-order: stroke fill;
+
+  margin-top: 1rem !important;
+  margin-bottom: 1.5rem !important;
+}
   /* This targets the sidebar navigation links in Hydejack v9 */
   .nav-list-item > a,
   .nav-list-item > span,
@@ -46,12 +66,6 @@
     contain: content;
   }
 
-  /* 3. OPTIONAL: Add a small separator line between title and menu */
-  .sidebar-about {
-    border-bottom: 1px solid rgba(255,255,255,0.1);
-    margin-bottom: 0.5rem;
-    padding-bottom: 0.5rem;
-  }
 
   /* Make content links blue */
   .content a,
@@ -81,21 +95,31 @@
 
   /* Add subtitle text below title in sidebar */
   .sidebar-about > a.sidebar-title::after {
-    content: "Municipales du 15 mars 2026\A Créons des liens et agissons ensemble";
-    white-space: pre-wrap;
-    display: block;
-    font-size: 1.25rem !important;
-    font-weight: 700 !important;
-    color:rgba(255, 215, 0, 0.85);
-    margin-top: 0.5rem;
-    border-bottom: none !important;
-    width: 100%;
+    content: "";
+    display: none !important;
   }
   
   .sidebar-about > a.sidebar-title {
     padding-bottom: 0 !important;
     transition: all 0.3s ease !important;
     cursor: pointer !important;
+  }
+
+  /* Move subtitle to bottom of sidebar menu */
+  .sidebar-nav::after {
+    content: "Municipales du 15 mars 2026\A Créons des liens et agissons ensemble";
+    white-space: pre-wrap;
+    display: block;
+    font-size: 1.3rem !important;
+    font-weight: 700 !important;
+    font-style: italic !important;
+    color: rgba(24, 102, 53, 0.85);
+    margin-top: 1.5rem !important;
+    padding-top: 1rem !important;
+    border-top: 1px solid rgba(255,255,255,0.1);
+    width: 100%;
+    padding-left: 1rem !important;
+    padding-right: 1rem !important;
   }
 
   .sidebar-about > a.sidebar-title:hover {
@@ -109,15 +133,39 @@
     content: "" !important;
   }
 
-  /* Make logo larger */
+  sidebar-about .logo,
+.sidebar-about img,
+.site-logo img {
+  width: 300px !important;
+  height: 230px !important;
+  max-width: 300px !important;
+  margin-bottom: 1rem !important;
+
+  /* Coins légèrement arrondis (reste bien carré) */
+  border-radius: 12px !important;
+
+  /* Cadre */
+  border: 1px solid #9bd48a !important;
+
+  /* Effet propre / premium */
+  padding: 2px;
+  background: rgba(255, 255, 255, 0.85);
+  box-shadow: 
+    0 0 0 2px #1f1f1f,
+    0 8px 25px rgba(0, 0, 0, 0.3);
+}
+@media (max-width: 768px) {
   .sidebar-about .logo,
   .sidebar-about img,
   .site-logo img {
-    width: 300px !important;
-    height: 230px !important;
-    max-width: 300px !important;
-    margin-bottom: 1rem !important;
-    border-radius: 0 !important;
+    width: 100% !important;
+    height: auto !important;
+    max-width: 100% !important;
+
+    border-radius: 10px !important;
+    border-width: 3px !important;
+    padding: 4px;
   }
+}
 
 </style>

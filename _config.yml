@@ -56,10 +56,6 @@ accent_image: /assets/img/fond.png
 # accent_color: rgb(237,187,50)
 accent_color: 'transparent'
 
-# Disable PWA features
-offline:
-  enabled: false
-  cache_version: 1
 
 # Add custom CSS
 # custom_css: /assets/css/custom.css
