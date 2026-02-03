@@ -94,7 +94,7 @@ h3 + p + ul {
 
    * Cartographie des sentiers (ruraux, équestres...)
    * Généraliser les trottoirs sur toute la commune pour la sécurité des piétons
-   * Favoriser les pistes cyclables pour circuler dans Combaillaux et vers l'extérieur
+   * [Favoriser les pistes cyclables](/documents.html#pistes-cyclables) pour circuler dans Combaillaux et vers l'extérieur
    * Connexion vers les périphéries :
         * accès au terminus bus 24 au Pradas
         * négociation avec la région pour augmenter la fréquence du bus 616 ([réduite récemment](https://www.herault-transport.fr/sites/default/files/fiches-horaires/ligne-rg/34-616-FH-072025.pdf))
