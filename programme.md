@@ -60,12 +60,12 @@ h3 + p + ul {
 2. **🗳️ Démocratie participative**
 
    * Concertation **très régulière** avec la population :
-        * ▪  Multiplication des lieux et des temps d'échanges
-        * ▪  Prise en compte des propositions citoyennes
+        * Multiplication des lieux et des temps d'échanges
+        * Prise en compte des propositions citoyennes
    * Refonte totale du site [**www.combaillaux.fr**](http://www.combaillaux.fr) :
-        * ▪  Création d'un espace de discussion et d'échanges en ligne
-        * ▪  Centralisation sur ce site **de tous les documents** (comptes-rendus, budgets, documents d'urbanisme, appels d'offre etc.)
-        * ▪  Agenda des événements et initiatives locales - communication renforcée sur [IntraMuros](https://www.intramuros.org/combaillaux/actualites?status=300&categorie=city)
+        * Création d'un espace de discussion et d'échanges en ligne
+        * Centralisation sur ce site **de tous les documents** (comptes-rendus, budgets, documents d'urbanisme, appels d'offre etc.)
+        * Agenda des événements et initiatives locales - communication renforcée sur [IntraMuros](https://www.intramuros.org/combaillaux/actualites?status=300&categorie=city)
    * Ouverture d'une tribune dans le journal municipal l'_Aïol_
    * Elaboration d'un plan numérique pour simplifier les démarches et l'accessibilité
 
@@ -88,8 +88,8 @@ h3 + p + ul {
    * Généraliser les trottoirs sur toute la commune pour la sécurité des piétons
    * Favoriser les pistes cyclables pour circuler dans Combaillaux et vers l'extérieur
    * Connexion vers les périphéries :
-        * ▪  accès au terminus bus 24 au Pradas
-        * ▪  négociation avec la région pour augmenter la fréquence du bus 616 ([réduite récemment](https://www.herault-transport.fr/sites/default/files/fiches-horaires/ligne-rg/34-616-FH-072025.pdf))
+        * accès au terminus bus 24 au Pradas
+        * négociation avec la région pour augmenter la fréquence du bus 616 ([réduite récemment](https://www.herault-transport.fr/sites/default/files/fiches-horaires/ligne-rg/34-616-FH-072025.pdf))
    * Liaison entre les lieux-dits isolés pour relier les habitants entre eux
 
 3. **🏛️ Investir dans le logement communal et le patrimoine**
