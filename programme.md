@@ -33,6 +33,14 @@ h3 + p + ul {
   font-weight: bold;
   margin-right: 0.5em;
 }
+
+/* Sublists with green dash */
+.mesures-page ul ul li::before {
+  content: "-";
+  color: #28a745; /* green color */
+  font-weight: bold;
+  margin-right: 0.5em;
+}
 </style>
 
 <div class="mesures-page" markdown="1">
