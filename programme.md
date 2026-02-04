@@ -75,6 +75,8 @@ h3 + p + ul {
         * Centralisation sur ce site **de tous les documents** (comptes-rendus, budgets, documents d'urbanisme, appels d'offre etc.)
         * Agenda des événements et initiatives locales - communication renforcée sur [IntraMuros](https://www.intramuros.org/combaillaux/actualites?status=300&categorie=city)
    * Ouverture d'une tribune dans le journal municipal l'_Aïol_
+        * pour tous les habitants de Combaillaux, y compris ceux qui ne font pas partie des listes élues
+
    * Elaboration d'un plan numérique pour simplifier les démarches et l'accessibilité
 
 
