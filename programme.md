@@ -96,6 +96,7 @@ h3 + p + ul {
 
    * Cartographie des sentiers (ruraux, équestres...)
    * Généraliser les trottoirs sur toute la commune pour la sécurité des piétons
+   * Installation de bancs publics à différents endroits du village : sur le chemin de Branquedieu, au pump track, sur la place de l’hôtel de ville, chemin entre le vieux cimetière et le vieux village, sur la route qui mène aux Sajolles
    * [Favoriser les pistes cyclables](/documents.html#pistes-cyclables) pour circuler dans Combaillaux et vers l'extérieur
    * Connexion vers les périphéries :
         * accès au terminus bus 24 au Pradas
