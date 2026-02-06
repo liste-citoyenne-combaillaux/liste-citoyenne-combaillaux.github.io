@@ -37,7 +37,7 @@ versants ou les hauteurs de la commune
 * Jean-Louis **Couture** - 67 ans, ingénieur agronome, les hauts de la fontaine
 * Daniel **Guiral** - 74 ans, directeur de recherche biologiste retraité (IRD), quartier du Patus
 * Danièle **Guigou** - ???, peintre-sculptrice, les Sajolles
-* Claude **Hammecker** - ??, chercheur en science du sol à l'IRD, quartier du Patus
+* Claude **Hammecker** - ??, directeur de recherche science du sol à l'IRD, quartier du Patus
 * Ludwig **Forte** - 34 ans, chef de projet en informatique, secteur Branquedieu
 * Sébastien **Freyburger** - 48 ans, cadre fonction publique territoriale (Region), les Sajolles
 * Véronique **Granit** - 43 ans, orthophoniste, quartier les pins d'Alep
