@@ -41,7 +41,6 @@ versants ou les hauteurs de la commune
 * Ludwig **Forte** - 34 ans, chef de projet en informatique, secteur Branquedieu
 * Sébastien **Freyburger** - 48 ans, cadre fonction publique territoriale (Region), les Sajolles
 * Véronique **Granit** - 43 ans, orthophoniste, quartier les pins d'Alep
-* Hélène **Ilbert** - ???
 * Chloé **Lerin** - 32 ans, ingénieur agronome en installation agricole, Mas de Gentil
 * François **Lerin** - ???, chercheur-médiateur ???, Mas de Gentil
 * Ezéchiel **Meireles** - 36 ans, cadre fonction publique (ARS), quartier les pins d'Alep
