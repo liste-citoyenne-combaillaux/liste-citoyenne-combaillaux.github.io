@@ -38,7 +38,7 @@ versants ou les hauteurs de la commune
 * Daniel **Guiral** - 74 ans, directeur de recherche biologiste retraité (IRD), quartier du Patus
 * Danièle **Guigou** - ???, peintre-sculptrice, les Sajolles
 * Claude **Hammecker** - ??, directeur de recherche science du sol à l'IRD, quartier du Patus
-* Ludwig **Forte** - 34 ans, chef de projet en informatique, secteur Branquedieu
+* Ludwig **Forte** - 34 ans, Consultant systèmes d'information, secteur Branquedieu
 * Sébastien **Freyburger** - 48 ans, cadre fonction publique territoriale (Region), les Sajolles
 * Véronique **Granit** - 43 ans, orthophoniste, quartier les Pins d'Alep
 * Chloé **Lerin** - 32 ans, ingénieur agronome en installation agricole, Mas de Gentil
