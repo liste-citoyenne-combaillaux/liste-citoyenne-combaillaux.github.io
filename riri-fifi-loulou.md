@@ -48,6 +48,8 @@ versants ou les hauteurs de la commune
 * Michel **Vanneste** - 57 ans, chirurgien-orthopédiste, les Servants
 
 ## Notre liste electorale est en construction
-La liste ci-dessus n'est pas notre liste electorale ! La liste electorale est à composer avec tous les habitants. Venez à la réunion publique du **15 février à 10h30** et peut-être nous allons vous convaincre de nous rejoindre !
+La liste ci-dessus n'est pas notre liste électorale ! Celle-ci se construira avec tous les habitants qui souhaitent s'engager.
 
-Contactez-nous (<a href="mailto://contact@combaillaux-autrement.fr">contact@combaillaux-autrement.fr</a>) pour partager vos idées, rejoindre le collectif ou rejoindre la liste electorale!
+**Rejoignez-nous le 15 février à 10h30** lors de notre réunion publique – venez découvrir notre projet et peut-être aurez-vous envie de nous rejoindre !
+
+Contactez-nous dès maintenant (<a href="mailto:contact@combaillaux-autrement.fr">contact@combaillaux-autrement.fr</a>) pour partager vos idées ou rejoindre l'aventure.
