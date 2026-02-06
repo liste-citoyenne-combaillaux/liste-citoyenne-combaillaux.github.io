@@ -34,7 +34,7 @@ versants ou les hauteurs de la commune
 * Claire **Balavoine** - 67ans, Professeure des écoles à la retraite, les Sajolles
 * Christian **Combes** - ???, retraité de l'éducation nationale. Plaine du Mas de Gentil.
 * Cégolène **Colonna** - ???, ???, les Sajolles
-* Jean-Louis **Couture** - 67 ans, ingénieur agronome, les hauts de la fontaine
+* Jean-Louis **Couture** - 67 ans, ingénieur agronome, les Hauts de la Fontaine
 * Daniel **Guiral** - 74 ans, directeur de recherche biologiste retraité (IRD), quartier du Patus
 * Danièle **Guigou** - ???, peintre-sculptrice, les Sajolles
 * Claude **Hammecker** - ??, directeur de recherche science du sol à l'IRD, quartier du Patus
