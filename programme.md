@@ -45,10 +45,6 @@ h3 + p + ul {
 
 <div class="mesures-page" markdown="1">
 
-<a href="/assets/img/Carte_mentale_complete.png">
-   <img src="/assets/img/Carte_mentale_synthetique.png" alt="Carte mentale synthétique" style="max-width: 820px; width: 100%; height: auto;" />
-</a>
-
 ## Débattre pour construire ensemble notre avenir
 
 1. **🔍 Gestion transparente de la commune**
@@ -70,7 +66,7 @@ h3 + p + ul {
    * Concertation **très régulière** avec la population :
         * Multiplication des lieux et des temps d'échanges
         * Prise en compte des propositions citoyennes
-   * Refonte totale du site [**www.combaillaux.fr**](http://www.combaillaux.fr) :
+   * **Portail citoyen moderne** pour [**www.combaillaux.fr**](http://www.combaillaux.fr)  :
         * Création d'un espace de discussion et d'échanges en ligne
         * Centralisation sur ce site **de tous les documents** (comptes-rendus, budgets, documents d'urbanisme, appels d'offre etc.)
         * Agenda des événements et initiatives locales - communication renforcée sur [IntraMuros](https://www.intramuros.org/combaillaux/actualites?status=300&categorie=city)
@@ -87,9 +83,10 @@ h3 + p + ul {
 
    * [Réhabilitation de la lombristation](documents/lombristation_reponse_DDTM.jpg) et refus catégorique d'une [mega-station d'épuration commune pour St Gély et Combaillaux](documents/schema_directeur_rapport_expertise_partie_Combaillaux_25_09_2025.pdf) implantée à Combaillaux
    * Gérer et protéger la ressource en eau : nappe phréatique, eau potable, zone de captage, récupération des eaux pluviales etc.
-   * Désimperméabilisation de la cour d'école et du parking coeur du village
+   * Désimperméabilisation et végétalisation de la cour d'école et du parking coeur du village
    * Meilleure prise en compte des risques lors de l'attribution des permis de construire (argiles gonflantes, inondations, incendies)
    * Adaptation aux extrêmes climatiques
+   * Amélioration de l'isolation des bâtiments **des deux écoles**
    * Repenser et publier enfin le PLU, bloqué depuis des années
 
 2. **🚶 🚴 Déployer un réseau de cheminements doux**
@@ -131,8 +128,7 @@ h3 + p + ul {
 3. **Favoriser une agriculture locale, bio et durable**
 
    * Inventaire du foncier communal
-   * Définir et mettre en œuvre une stratégie foncière
-   * Animation du foncier (achat, vente, location)
+   * Définir et mettre en œuvre une stratégie foncière (achat, vente, location)
    * Soutien à l'installation agricole
 
 </div>
@@ -140,3 +136,12 @@ h3 + p + ul {
 ---
 
 💬 **Ces mesures font l'objet d'une construction collective. Nous utilisons des outils collaboratifs pour intégrer progressivement les propositions de chacun. Rejoignez-nous !**
+
+
+
+Ci-dessous le programme sous forme de carte mentale. Cliquez dessus pour avoir une version détaillée !
+
+
+<a href="/assets/img/Carte_mentale_complete.png">
+   <img src="/assets/img/Carte_mentale_synthetique.png" alt="Carte mentale synthétique" style="max-width: 820px; width: 100%; height: auto;" />
+</a>

@@ -1,37 +1,17 @@
-# remote_theme: pages-themes/merlot@v0.2.0
-# plugins:
-# - jekyll-remote-theme # add this line to the plugins list if you already have one
-# - jekyll-feed
-
-# remote_theme: liste-citoyenne-combaillaux/style-modernist
-# plugins:
-#  - jekyll-remote-theme # add this line to the plugins list if you already have one
-#  - jekyll-feed
-
-# lang: fr
-
-# title: Liste citoyenne pour Combaillaux 2026
-
-# header_pages: 
-#  - url: programme.html
-#    title: Nos ambitions en détail
-#  - url: contact.html
-#    title: Nous rejoindre
-#  - url: collectif.html
-#    title: Le collectif
-#  - url : cr.html
-#    title : Compte-rendus des ateliers
-
-
 repository: username/liste-citoyenne-combaillaux.github.io
 
 remote_theme: hydecorp/hydejack@v9
 plugins:
  - jekyll-remote-theme
  - jekyll-feed
+
+hydejack:
+  offline:
+    enabled: false
+  no_sw: true
     
 # Configuration spécifique à Hydejack
-logo: /assets/icons/icon.png
+logo: /assets/icons/icon.jpeg
 favicon: /assets/icons/favicon.ico
 apple_touch_icon: /assets/icons/apple-touch-icon.png
 
@@ -40,18 +20,23 @@ lang: fr
 title: Combaillaux Autrement
 
 menu:
- - title: Notre programme
+ - title: Nos axes de travail
    url: /programme.html
- - title: Le collectif
+ - title: Comité de soutien
    url: /collectif.html
  - title: Nous rejoindre
    url: /contact.html
  - title: Documentation
-   url: /documents.html
- - title: RiriFifiLoulou
-   url: /riri-fifi-loulou.html
+   url: /documentation.html
 #  - title: Compte-rendus des ateliers
 #    url: /cr.html
+
+sidebar:
+  social: true  # Make sure this is set to true
+
+author:
+  social:
+    facebook: https://www.facebook.com/share/14ZXMKa5BjK/?mibextid=wwXIfr
 
 # background image + color
 accent_image: /assets/img/fond.png
