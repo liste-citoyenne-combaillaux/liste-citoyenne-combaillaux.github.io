@@ -51,6 +51,13 @@ menu:
 #  - title: Compte-rendus des ateliers
 #    url: /cr.html
 
+sidebar:
+  social: true  # Make sure this is set to true
+
+author:
+  social:
+    facebook: https://www.facebook.com/share/14ZXMKa5BjK/?mibextid=wwXIfr
+
 # background image + color
 accent_image: /assets/img/fond.png
 # accent_color: rgb(237,187,50)
