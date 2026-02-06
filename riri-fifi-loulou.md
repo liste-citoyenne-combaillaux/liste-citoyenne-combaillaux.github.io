@@ -35,16 +35,17 @@ versants ou les hauteurs de la commune
 * Christian **Combes** - ???, retraité de l'éducation nationale. Plaine du Mas de Gentil.
 * Cégolène **Colonna** - ???, ???, les Sajolles
 * Jean-Louis **Couture** - 67 ans, ingénieur agronome, les hauts de la fontaine
-* Daniel **Guiral** - 74 ans, directeur de recherche retraité, route de St Gely
+* Daniel **Guiral** - 74 ans, directeur de recherche biologiste retraité (IRD), quartier du Patus
 * Danièle **Guigou** - ???, peintre-sculptrice, les Sajolles
+* Claude **Hammecker** - ??, chercheur en science du sol à l'IRD, quartier du Patus
 * Ludwig **Forte** - 34 ans, chef de projet en informatique, secteur Branquedieu
-* Sébastien **Freyburger** - 48 ans, icadre fonction publique territoriale (Region), les Sajolles
+* Sébastien **Freyburger** - 48 ans, cadre fonction publique territoriale (Region), les Sajolles
 * Véronique **Granit** - 43 ans, orthophoniste, quartier les pins d'Alep
 * Hélène **Ilbert** - ???
 * Chloé **Lerin** - 32 ans, ingénieur agronome en installation agricole, Mas de Gentil
 * François **Lerin** - ???, chercheur-médiateur ???, Mas de Gentil
 * Ezéchiel **Meireles** - 36 ans, cadre fonction publique (ARS), quartier les pins d'Alep
-* Petru **Valicov** - 39 ans, enseignant-cherchereur en informatique, les Sajolles
+* Petru **Valicov** - 39 ans, enseignant-chercheur en informatique, les Sajolles
 * Michel **Vanneste** - 57 ans, chirurgien-orthopédiste, les Servants
 
 ## Notre liste electorale est en construction
