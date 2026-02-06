@@ -30,7 +30,7 @@ versants ou les hauteurs de la commune
 * Avec **un mode de fonctionnement horizontal** : pas de maire qui décide seul, mais une équipe qui construit et porte les projets collectivement
 
 
-## Les membres du collectif ayant contribué
+## Les membres du collectif ayant contribué au projet
 * Claire **Balavoine** - 67ans, Professeure des écoles à la retraite, les Sajolles
 * Christian **Combes** - ???, retraité de l'éducation nationale. Plaine du Mas de Gentil.
 * Cégolène **Colonna** - ???, ???, les Sajolles
@@ -48,5 +48,6 @@ versants ou les hauteurs de la commune
 * Michel **Vanneste** - 57 ans, chirurgien-orthopédiste, les Servants
 
 ## Notre liste electorale est en construction
+La liste ci-dessus n'est pas notre liste electorale ! La liste electorale est à composer avec tous les habitants. Venez à la réunion publique du **15 février à 10h30** et peut-être nous allons vous convaincre de nous rejoindre !
 
 Contactez-nous (<a href="mailto://contact@combaillaux-autrement.fr">contact@combaillaux-autrement.fr</a>) pour partager vos idées, rejoindre le collectif ou rejoindre la liste electorale!
