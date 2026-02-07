@@ -235,18 +235,28 @@ h2.h1,
   color: #1877F2 !important; /* Official Facebook blue */
   }
 
-/* Centrer les titres sur desktop */
+
+
+/* Décaler le contenu pour ne pas être caché par la sidebar + augmenter largeur à droite */
 @media (min-width: 64em) {
+  .page,
+  article.page,
+  .content > article,
+  main .content,
+  #_main {
+    margin-left: 13rem !important; /* Valeur intermédiaire */
+    margin-right: 2rem !important;
+    max-width: calc(100vw - 15rem) !important;
+    padding-left: 2rem !important;
+    padding-right: 2rem !important;
+  }
+  
+  /* Garder les titres centrés dans ce nouvel espace */
   .page-title,
   .post-title,
-  article > h1:first-child,
-  .content > article > h1:first-child {
+  article > h1:first-child {
     text-align: center !important;
-    margin-left: auto !important;
-    margin-right: auto !important;
-    padding-left: 0 !important;
-    padding-right: 0 !important;
+    margin-left: 0 !important;
   }
 }
-
 </style>
