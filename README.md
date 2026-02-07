@@ -18,7 +18,7 @@ _Quelques unes de nos idées phares (issues des ateliers de travail déjà réal
 Vouz avez le choix : ne rien changer ou **porter une équipe nouvelle aux responsabilités**, une équipe qui s'engage à diriger différemment et à apporter les changements que notre village attend.
 
 
-**Rejoignez-nous à la réunion publique**  
+### Rejoignez-nous à la réunion publique  
 📅 Samedi 15 février à 10h30
 
 Venez échanger avec nous sur l'avenir de Combaillaux !
