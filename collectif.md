@@ -33,6 +33,7 @@ versants ou les hauteurs de la commune
 ## Les membres du collectif
 * Coraline **Alberti** - 36 ans, médecin addictologue, les Sajolles
 * Claire **Balavoine** - 67 ans, professeure des écoles à la retraite, les Sajolles
+* Cégolène **Colonna-Leroul** - 58 ans, consultante, les Sajolles
 * Christian **Combes** - 74, professeur des écoles à la retraite. Plaine du Mas de Gentil.
 * Jean-Louis **Couture** - 67 ans, ingénieur agronome, les Hauts de la Fontaine
 * Daniel **Guiral** - 74 ans, directeur de recherche biologiste retraité (IRD), quartier du Patus
