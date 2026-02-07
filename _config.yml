@@ -31,7 +31,7 @@ plugins:
  - jekyll-feed
     
 # Configuration spécifique à Hydejack
-logo: /assets/icons/icon.png
+logo: /assets/icons/icon.jpeg
 favicon: /assets/icons/favicon.ico
 apple_touch_icon: /assets/icons/apple-touch-icon.png
 
