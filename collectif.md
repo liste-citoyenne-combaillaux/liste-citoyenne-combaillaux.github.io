@@ -19,7 +19,7 @@ h3 + p + ul {
 
 Une équipe motivée pour proposer un projet municipal **alternatif** à ce qui est en place depuis de nombreuses années sur Combaillaux.
 
-**Cette liste se veut plurielle et dynamique** :
+**Ce collectif se veut pluriel et dynamique** :
 
 * Femmes et hommes de **différentes générations**
 * Habitant **différents lieux dits de Combaillaux** que ce soit dans la plaine, les
@@ -30,4 +30,26 @@ versants ou les hauteurs de la commune
 * Avec **un mode de fonctionnement horizontal** : pas de maire qui décide seul, mais une équipe qui construit et porte les projets collectivement
 
 
-Contactez-nous (<a href="mailto://contact@combaillaux-autrement.fr">contact@combaillaux-autrement.fr</a>) pour partager vos idées ou encore mieux, nous rejoindre !
+## Les membres du collectif
+* Coraline **Alberti** - 36 ans, médecin addictologue, les Sajolles
+* Claire **Balavoine** - 67 ans, professeure des écoles à la retraite, les Sajolles
+* Christian **Combes** - 74, professeur des écoles à la retraite. Plaine du Mas de Gentil.
+* Jean-Louis **Couture** - 67 ans, ingénieur agronome, les Hauts de la Fontaine
+* Daniel **Guiral** - 74 ans, directeur de recherche biologiste retraité (IRD), quartier du Patus
+* Danièle **Guigou** - 68 ans, peintre-sculptrice, les Sajolles
+* Claude **Hammecker** - 61 ans, directeur de recherche science du sol à l'IRD, quartier du Patus
+* Ludwig **Forte** - 34 ans, Consultant systèmes d'information, secteur Branquedieu
+* Sébastien **Freyburger** - 48 ans, cadre fonction publique territoriale (Region), les Sajolles
+* Véronique **Granit** - 43 ans, orthophoniste, quartier les Pins d'Alep
+* Chloé **Lerin** - 32 ans, ingénieur agronome en installation agricole, Plaine du Mas de Gentil
+* François **Lerin** - chercheur médiateur en agroenvironnement, Plaine du Mas de Gentil
+* Ezéchiel **Meireles** - 36 ans, cadre fonction publique (ARS), quartier les Pins d'Alep
+* Petru **Valicov** - 39 ans, enseignant-chercheur en informatique, les Sajolles
+* Michel **Vanneste** - 57 ans, chirurgien-orthopédiste, les Servants
+
+## Notre liste electorale est en construction
+La liste ci-dessus n'est pas notre liste électorale ! Celle-ci se construira avec tous les habitants qui souhaitent s'engager.
+
+**Rejoignez-nous le 15 février à 10h30** lors de notre réunion publique – venez découvrir notre projet et peut-être aurez-vous envie de nous rejoindre !
+
+Contactez-nous dès maintenant (<a href="mailto:contact@combaillaux-autrement.fr">contact@combaillaux-autrement.fr</a>) pour partager vos idées ou rejoindre l'aventure.
