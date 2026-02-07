@@ -19,7 +19,7 @@ Vouz avez le choix : ne rien changer ou **porter une équipe nouvelle aux respon
 
 
 ### Rejoignez-nous à la réunion publique  
-📅 Samedi 15 février à 10h30
+📅 Dimanche 15 février à 10h30-12h30 à la salle Occitanie.
 
 Venez échanger avec nous sur l'avenir de Combaillaux !
 
