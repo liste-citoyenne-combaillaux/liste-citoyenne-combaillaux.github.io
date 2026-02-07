@@ -15,19 +15,43 @@ h3 + ol,
 h3 + p + ul {
   margin-left: 2rem;
 }
+
+.info-box {
+  background-color: #e3f2fd;
+  border: 2px solid #4a9eff;
+  border-radius: 8px;
+  padding: 1.5rem;
+  margin: 2rem 0;
+}
+
+.info-box h2 {
+  margin-top: 0;
+  color: #1976d2;
+}
 </style>
 
 Une équipe motivée pour proposer un projet municipal **alternatif** à ce qui est en place depuis de nombreuses années sur Combaillaux.
 
-**Ce collectif se veut pluriel et dynamique** :
+
+**Ce collectif se veut pluriel et dynamique** :
 
 * Femmes et hommes de **différentes générations**
 * Habitant **différents lieux dits de Combaillaux** que ce soit dans la plaine, les
 versants ou les hauteurs de la commune
-* Portés par des **savoir-faire variés** : expériences dans le culturel, le social, l’éducation, l'agriculture, la santé, les sports, la gestion, l'informatique, les sciences ou l’écologie.
+* Portés par des **savoir-faire variés** : expériences dans le culturel, le social, l'éducation, l'agriculture, la santé, les sports, la gestion, l'informatique, les sciences ou l'écologie.
 * **Déjà investis sur le terrain** : actifs dans les associations, l'animation locale et les échanges de savoir-faire
-* Désireux de **construire ensemble** l’avenir de Combaillaux
+* Désireux de **construire ensemble** l'avenir de Combaillaux
 * Avec **un mode de fonctionnement horizontal** : pas de maire qui décide seul, mais une équipe qui construit et porte les projets collectivement
+
+
+<div class="info-box" markdown="1">
+
+## Notre liste electorale est en construction
+La liste ci-dessus n'est pas notre liste électorale ! Celle-ci se construira avec tous les habitants qui souhaitent s'engager.
+
+**Rejoignez-nous le 15 février à 10h30** lors de notre réunion publique – venez découvrir notre projet et peut-être aurez-vous envie de nous rejoindre !
+
+</div>
 
 
 ## Les membres du collectif
@@ -48,9 +72,5 @@ versants ou les hauteurs de la commune
 * Petru **Valicov** - 39 ans, enseignant-chercheur en informatique, les Sajolles
 * Michel **Vanneste** - 57 ans, chirurgien-orthopédiste, les Servants
 
-## Notre liste electorale est en construction
-La liste ci-dessus n'est pas notre liste électorale ! Celle-ci se construira avec tous les habitants qui souhaitent s'engager.
 
-**Rejoignez-nous le 15 février à 10h30** lors de notre réunion publique – venez découvrir notre projet et peut-être aurez-vous envie de nous rejoindre !
-
-Contactez-nous dès maintenant (<a href="mailto:contact@combaillaux-autrement.fr">contact@combaillaux-autrement.fr</a>) pour partager vos idées ou rejoindre l'aventure.
+Contactez-nous dès maintenant (<a href="mailto:contact@combaillaux-autrement.fr">contact@combaillaux-autrement.fr</a>) pour partager vos idées et/ou rejoindre l'aventure.
