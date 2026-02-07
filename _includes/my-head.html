@@ -75,7 +75,7 @@ h2.h1,
     .sidebar-nav-item {
       padding-top: 0.1rem !important;
       padding-bottom: 0.1rem !important;
-      line-height: 1.3 !important;
+      line-height: 1.1 !important;
     }
   }
 
@@ -257,6 +257,14 @@ h2.h1,
   article > h1:first-child {
     text-align: center !important;
     margin-left: 0 !important;
+  }
+}
+
+/* Reduce line spacing on mobile only */
+@media (max-width: 768px) {
+  .sidebar-nav::before {
+    line-height: 1.2 !important; /* Reduced from default */
+    font-size: 1.4rem !important; /* Optionally reduce font size too */
   }
 }
 </style>
