@@ -18,6 +18,17 @@ _Quelques unes de nos idées phares (issues des ateliers de travail déjà réal
 Vouz avez le choix : ne rien changer ou **porter une équipe nouvelle aux responsabilités**, une équipe qui s'engage à diriger différemment et à apporter les changements que notre village attend.
 
 
-**Plus d'informations très bientôt...**  
-En attendant, n'hésitez pas à [nous contacter](contact.html) — échangeons ensemble sur l'avenir de Combaillaux ! Et **rejoignez-nous** si cela vous intéresse !
+**Rejoignez-nous à la réunion publique**  
+📅 Samedi 15 février à 10h30
 
+Venez échanger avec nous sur l'avenir de Combaillaux !
+
+---
+
+### Restons en contact
+
+* Suivez notre actualité sur [Facebook](https://www.facebook.com/share/14ZXMKa5BjK/?mibextid=wwXIfr)
+* Des questions ? Des idées ? [Contactez-nous](contact.html) — nous serions ravis d'échanger avec vous.
+
+
+**Rejoignez notre équipe !** Votre participation fait la différence.
