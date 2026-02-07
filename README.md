@@ -28,7 +28,7 @@ Venez échanger avec nous sur l'avenir de Combaillaux !
 ### Restons en contact
 
 * Suivez notre actualité sur [Facebook](https://www.facebook.com/share/14ZXMKa5BjK/?mibextid=wwXIfr)
-* Des questions ? Des idées ? [Contactez-nous](contact.html) — nous serions ravis d'échanger avec vous.
+* Des questions ? Des idées ? Contactez-nous (<a href="mailto:contact@combaillaux-autrement.fr">contact@combaillaux-autrement.fr</a>) — nous serions ravis d'échanger avec vous.
 
 
 **Rejoignez notre équipe !** Votre participation fait la différence.
