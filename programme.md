@@ -87,9 +87,10 @@ h3 + p + ul {
 
    * [Réhabilitation de la lombristation](documents/lombristation_reponse_DDTM.jpg) et refus catégorique d'une [mega-station d'épuration commune pour St Gély et Combaillaux](documents/schema_directeur_rapport_expertise_partie_Combaillaux_25_09_2025.pdf) implantée à Combaillaux
    * Gérer et protéger la ressource en eau : nappe phréatique, eau potable, zone de captage, récupération des eaux pluviales etc.
-   * Désimperméabilisation de la cour d'école et du parking coeur du village
+   * Désimperméabilisation et végétalisation de la cour d'école et du parking coeur du village
    * Meilleure prise en compte des risques lors de l'attribution des permis de construire (argiles gonflantes, inondations, incendies)
    * Adaptation aux extrêmes climatiques
+   * Amélioration de l'isolation des bâtiments **des deux écoles**
    * Repenser et publier enfin le PLU, bloqué depuis des années
 
 2. **🚶 🚴 Déployer un réseau de cheminements doux**
