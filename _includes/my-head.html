@@ -235,5 +235,18 @@ h2.h1,
   color: #1877F2 !important; /* Official Facebook blue */
   }
 
+/* Centrer les titres sur desktop */
+@media (min-width: 64em) {
+  .page-title,
+  .post-title,
+  article > h1:first-child,
+  .content > article > h1:first-child {
+    text-align: center !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+  }
+}
 
 </style>
