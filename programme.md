@@ -45,10 +45,6 @@ h3 + p + ul {
 
 <div class="mesures-page" markdown="1">
 
-<a href="/assets/img/Carte_mentale_complete.png">
-   <img src="/assets/img/Carte_mentale_synthetique.png" alt="Carte mentale synthétique" style="max-width: 820px; width: 100%; height: auto;" />
-</a>
-
 ## Débattre pour construire ensemble notre avenir
 
 1. **🔍 Gestion transparente de la commune**
@@ -141,3 +137,12 @@ h3 + p + ul {
 ---
 
 💬 **Ces mesures font l'objet d'une construction collective. Nous utilisons des outils collaboratifs pour intégrer progressivement les propositions de chacun. Rejoignez-nous !**
+
+
+
+Ci-dessous le programme sous forme de carte mentale. Cliquez dessus pour l'agrandir !
+
+
+<a href="/assets/img/Carte_mentale_complete.png">
+   <img src="/assets/img/Carte_mentale_synthetique.png" alt="Carte mentale synthétique" style="max-width: 820px; width: 100%; height: auto;" />
+</a>
