@@ -28,10 +28,33 @@ h3 + p + ul {
   margin-top: 0;
   color: #1976d2;
 }
+
+
+/* Cache les puces noires par défaut pour laisser place aux emojis */
+.collectif-page ul {
+  list-style-type: none;
+}
+
+
+.collectif-page ul li::before {
+  content: "▪";
+  color: #28a745; /* green color */
+  font-weight: bold;
+  margin-right: 0.5em;
+}
+
+/* Sublists with green dash */
+.collectif-page ul ul li::before {
+  content: "-";
+  color: #28a745; /* green color */
+  font-weight: bold;
+  margin-right: 0.5em;
+}
 </style>
 
 Une équipe motivée pour proposer un projet municipal **alternatif** à ce qui est en place depuis de nombreuses années sur Combaillaux.
 
+<div class="collectif-page" markdown="1">
 
 **Ce collectif se veut pluriel et dynamique** :
 
@@ -74,3 +97,6 @@ La liste ci-dessous n'est pas notre liste électorale ! Celle-ci se construira a
 
 
 Contactez-nous dès maintenant (<a href="mailto:contact@combaillaux-autrement.fr">contact@combaillaux-autrement.fr</a>) pour partager vos idées et/ou rejoindre l'aventure.
+
+
+</div>
