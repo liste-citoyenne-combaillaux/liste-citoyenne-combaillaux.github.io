@@ -140,7 +140,7 @@ h3 + p + ul {
 
 
 
-Ci-dessous le programme sous forme de carte mentale. Cliquez dessus pour l'agrandir !
+Ci-dessous le programme sous forme de carte mentale. Cliquez dessus pour avoir une version détaillée !
 
 
 <a href="/assets/img/Carte_mentale_complete.png">
