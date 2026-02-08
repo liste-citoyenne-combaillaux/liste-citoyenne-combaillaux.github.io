@@ -60,12 +60,12 @@ La liste ci-dessous n'est pas notre liste électorale ! Celle-ci se construira a
 * Cégolène **Colonna-Leroul** - 56 ans, consultante, les Sajolles
 * Christian **Combes** - 74, professeur des écoles à la retraite. Plaine du Mas de Gentil.
 * Jean-Louis **Couture** - 67 ans, ingénieur agronome, les Hauts de la Fontaine
-* Daniel **Guiral** - 74 ans, directeur de recherche biologiste retraité (IRD), quartier du Patus
-* Danièle **Guigou** - 68 ans, peintre-sculptrice, les Sajolles
-* Claude **Hammecker** - 61 ans, directeur de recherche science du sol à l'IRD, quartier du Patus
 * Ludwig **Forte** - 34 ans, Consultant systèmes d'information, secteur Branquedieu
 * Sébastien **Freyburger** - 48 ans, cadre fonction publique territoriale (Region), les Sajolles
 * Véronique **Granit** - 43 ans, orthophoniste, quartier les Pins d'Alep
+* Daniel **Guiral** - 74 ans, directeur de recherche biologiste retraité (IRD), quartier du Patus
+* Danièle **Guigou** - 68 ans, peintre-sculptrice, les Sajolles
+* Claude **Hammecker** - 61 ans, directeur de recherche science du sol à l'IRD, quartier du Patus
 * Chloé **Lerin** - 32 ans, ingénieur agronome en installation agricole, Plaine du Mas de Gentil
 * François **Lerin** - chercheur médiateur en agroenvironnement, Plaine du Mas de Gentil
 * Ezéchiel **Meireles** - 36 ans, cadre fonction publique (ARS), quartier les Pins d'Alep
