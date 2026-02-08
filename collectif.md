@@ -47,7 +47,7 @@ versants ou les hauteurs de la commune
 <div class="info-box" markdown="1">
 
 ## Notre liste electorale est en construction
-La liste ci-dessus n'est pas notre liste électorale ! Celle-ci se construira avec tous les habitants qui souhaitent s'engager.
+La liste ci-dessous n'est pas notre liste électorale ! Celle-ci se construira avec tous les habitants qui souhaitent s'engager.
 
 **Venez nous rencontrer le 15 février à 10h30** lors de notre réunion publique – venez découvrir notre projet et peut-être aurez-vous envie de nous rejoindre !
 
