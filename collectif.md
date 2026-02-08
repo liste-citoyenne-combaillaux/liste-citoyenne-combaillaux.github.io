@@ -77,7 +77,7 @@ La liste ci-dessous n'est pas notre liste électorale ! Celle-ci se construira a
 </div>
 
 
-## Les membres du collectif
+## Les membres du comité de soutien
 * Coraline **Alberti** - 36 ans, médecin addictologue, les Sajolles
 * Claire **Balavoine** - 67 ans, professeure des écoles à la retraite, les Sajolles
 * Cégolène **Colonna-Leroul** - 56 ans, consultante, les Sajolles
