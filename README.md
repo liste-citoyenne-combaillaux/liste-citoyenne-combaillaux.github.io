@@ -6,15 +6,6 @@ En vue des élections municipales, notre collectif s'est formé pour proposer au
 
 Aujourd'hui, nous voulons gagner cette élection pour administrer Combaillaux autrement — avec transparence, concertation et véritable participation citoyenne.
 
-<!-- 
-_Quelques unes de nos idées phares (issues des ateliers de travail déjà réalisés) :_
-* _Concertation **systématique** entre les habitants pour **tous** les projets (avant et après les élections)_
-* _Finaliser **réellement** le PLU_
-* _Permis de construire dans le respect de l'identité naturelle du village_
-* _Redynamiser la vie du village_
-* _Promouvoir les projets agro-écologiques_ -->
-
-
 Vouz avez le choix : ne rien changer ou **porter une équipe nouvelle aux responsabilités**, une équipe qui s'engage à diriger différemment et à apporter les changements que notre village attend.
 
 
