@@ -278,15 +278,7 @@ h2.h1,
 }
 </style>
 
-
-<!-- Disable PWA completely -->
 <script>
-// Remove manifest link IMMEDIATELY (runs in <head> before page loads)
-var manifestLink = document.querySelector('link[rel="manifest"]');
-if (manifestLink) {
-  manifestLink.parentNode.removeChild(manifestLink);
-}
-
 // Unregister service workers
 if ('serviceWorker' in navigator) {
   navigator.serviceWorker.getRegistrations().then(function(registrations) {
