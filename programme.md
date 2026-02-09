@@ -128,8 +128,7 @@ h3 + p + ul {
 3. **Favoriser une agriculture locale, bio et durable**
 
    * Inventaire du foncier communal
-   * Définir et mettre en œuvre une stratégie foncière
-   * Animation du foncier (achat, vente, location)
+   * Définir et mettre en œuvre une stratégie foncière (achat, vente, location)
    * Soutien à l'installation agricole
 
 </div>
