@@ -281,19 +281,11 @@ h2.h1,
 
 <!-- Disable PWA completely -->
 <script>
-// Remove manifest link
-document.addEventListener('DOMContentLoaded', function() {
-  var manifestLink = document.querySelector('link[rel="manifest"]');
-  if (manifestLink) {
-    manifestLink.remove();
-  }
-  
-  // Remove theme-color meta tag (optional, helps with PWA detection)
-  var themeColor = document.querySelector('meta[name="theme-color"]');
-  if (themeColor) {
-    themeColor.remove();
-  }
-});
+// Remove manifest link IMMEDIATELY (runs in <head> before page loads)
+var manifestLink = document.querySelector('link[rel="manifest"]');
+if (manifestLink) {
+  manifestLink.parentNode.removeChild(manifestLink);
+}
 
 // Unregister service workers
 if ('serviceWorker' in navigator) {
