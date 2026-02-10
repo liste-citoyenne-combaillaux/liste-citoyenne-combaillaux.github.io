@@ -15,8 +15,8 @@
     overflow-y: auto !important;
     overflow-x: hidden !important;
     height: auto !important;
+    --hy-drawer-peek-width:40rem !important;
   }
-
 
 h1.page-title {
   margin-top: 0rem;
@@ -111,6 +111,12 @@ h2.h1,
     contain: content;
   }
 
+  @media (max-width: 200px){
+    hy-drawer#_drawer{
+      --hy-drawer-peek-width: 25rem;
+    }
+  }
+  
 
   /* Make content links blue */
   .content a,
@@ -161,8 +167,8 @@ h2.h1,
     padding-top: 0rem !important;
     border-top: 1px solid rgba(255,255,255,0.1);
     width: 100%;
-    padding-left: 1rem !important;
-    padding-right: 1rem !important;
+    /* padding-left: 1rem !important;
+    padding-right: 1rem !important; */
     white-space: pre-wrap;
 }
 
