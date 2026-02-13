@@ -85,6 +85,7 @@ La liste ci-dessous n'est pas notre liste électorale ! Celle-ci se construira a
 * Jean-Louis **Couture** - 67 ans, ingénieur agronome, les Hauts de la Fontaine
 * Ludwig **Forte** - 34 ans, Consultant systèmes d'information, secteur Branquedieu
 * Sébastien **Freyburger** - 48 ans, cadre fonction publique territoriale (Region), les Sajolles
+* Léane **Freyburger-Giouve** - 18 ans, étudiante en droit, les Sajolles
 * Véronique **Granit** - 43 ans, orthophoniste, quartier les Pins d'Alep
 * Danièle **Guigou** - 68 ans, peintre-sculptrice, les Sajolles
 * Daniel **Guiral** - 74 ans, directeur de recherche biologiste retraité (IRD), quartier du Patus
