@@ -88,13 +88,14 @@ La liste ci-dessous n'est pas notre liste électorale ! Celle-ci se construira a
 * Léane **Freyburger-Giouve** - 18 ans, étudiante en droit, les Sajolles
 * Véronique **Granit** - 43 ans, orthophoniste, quartier les Pins d'Alep
 * Danièle **Guigou** - 68 ans, peintre-sculptrice, les Sajolles
-* Daniel **Guiral** - 74 ans, directeur de recherche biologiste retraité (IRD), quartier du Patus
+* Daniel **Guiral** - 74 ans, directeur de recherche hydrobiologiste retraité (IRD), quartier du Patus
 * Olivier **Hoibian** - 70 ans, historien et sociologue retraité, quartier des Sajolles
 * Claude **Hammecker** - 61 ans, directeur de recherche science du sol à l'IRD, quartier du Patus
 * Chloé **Lerin** - 32 ans, ingénieur agronome en installation agricole, Plaine du Mas de Gentil
 * François **Lerin** - chercheur médiateur en agroenvironnement, Plaine du Mas de Gentil
 * Ezéchiel **Meireles** - 36 ans, cadre fonction publique (ARS), quartier les Pins d'Alep
 * Claudine **Ménard** - 54 ans, enseignante-chercheuse en biochimie, les Servants
+* Marie-Claude **Monleau** - 69 ans, informaticienne retraitée, les Sajolles
 * Petru **Valicov** - 39 ans, enseignant-chercheur en informatique, les Sajolles
 * Michel **Vanneste** - 57 ans, chirurgien-orthopédiste, les Servants
 
