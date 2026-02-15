@@ -80,7 +80,7 @@ La liste ci-dessous n'est pas notre liste électorale ! Celle-ci se construira a
 ## Les membres du comité de soutien
 * Coraline **Alberti** - 36 ans, médecin addictologue, les Sajolles
 * Claire **Balavoine** - 67 ans, professeure des écoles à la retraite, les Sajolles
-* Cégolène **Colonna-Leroul** - 56 ans, consultante, les Sajolles
+* Cégolène **Colonna-Leroul** - 56 ans, consultante formatrice, les Sajolles
 * Christian **Combes** - 74, professeur des écoles à la retraite. Plaine du Mas de Gentil.
 * Jean-Louis **Couture** - 67 ans, ingénieur agronome, les Hauts de la Fontaine
 * Ludwig **Forte** - 34 ans, Consultant systèmes d'information, secteur Branquedieu
