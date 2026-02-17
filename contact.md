@@ -52,10 +52,9 @@ h3 + p + ul {
 }
 </style>
 
-Nous avons effectué notre première réunion publique le dimanche 15 février, et nous avons été ravis de voir que plusieurs habitants sont venus nous écouter et poser des questions. Merci à tous ! Cela nous a permir à la fois de présenter notre projet et de recenser les préoccupations des habitants et les points de notre programme.
+Nous avons effectué notre première réunion publique le dimanche 15 février, et nous avons été ravis de vous retrouver en nombre pour nous écouter et échanger autour de nos propositions. Merci à toutes et à tous !
 
-
-Voici quelques images de cette réunion :
+Voici un petit descriptif et quelques images de cette réunion :
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid05jHnmcLCmsAw59NzWsDHR8KjEi6m7kcU3ESsF89Sy7cfCMsSo7UqxKjJPiHzUXxLl%26id%3D61587762264642&show_text=true&width=500" width="500" height="690" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
 
