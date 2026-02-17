@@ -1,1 +1,0 @@
-Ici compte-rendus des ateliers citoyens déjà organisés par le collectif.
