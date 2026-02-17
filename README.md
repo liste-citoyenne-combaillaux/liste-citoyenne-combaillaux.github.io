@@ -2,17 +2,22 @@
 
 **Combaillaux mérite un nouveau départ.**
 
-En vue des élections municipales, notre collectif s'est formé pour proposer aux habitants un projet électoral différent de celui en place depuis deux décennies. C'est une **liste citoyenne municipale** à l'initiative des habitants et habitantes de Combaillaux. Nous construisons ensemble notre projet à travers des réunions régulières et ouvertes, où chacun peut débattre, proposer, affiner les axes prioritaires. C'est cette dynamique collective qui fait notre force.
+En vue des élections municipales, notre collectif s'est formé pour proposer aux combaillaulencs un projet électoral différent de celui en place depuis deux décennies. C'est une **liste citoyenne municipale** à l'initiative des habitants et habitantes de Combaillaux. Nous construisons ensemble notre projet à travers des réunions régulières et ouvertes, où chacun peut débattre, proposer, affiner les axes prioritaires. C'est cette dynamique collective qui fait notre force.
 
-Aujourd'hui, nous voulons gagner cette élection pour administrer Combaillaux autrement — avec transparence, concertation et véritable participation citoyenne.
+Aujourd'hui, nous voulons gagner cette élection pour **administrer Combaillaux autrement** — avec transparence, concertation et véritable participation citoyenne.
 
 Vouz avez le choix : ne rien changer ou **porter une équipe nouvelle aux responsabilités**, une équipe qui s'engage à diriger différemment et à apporter les changements que notre village attend.
 
 
-### Bilan de la réunion publique du 15 février
-Plusieurs habitants sont venus nous écouter et poser des questions. Merci à tous ! Cela nous a permir à la fois de présenter notre projet et de recenser les préoccupations des habitants et les points de notre programme à retravailler.
+### Retour sur notre première réunion publique 
+Plusieurs dizaines d'habitants sont venus nous écouter et poser des questions le dimanche 15 février. Merci à tous ! Cela nous a permis à la fois de présenter notre projet, de recenser les préoccupations des habitants, ainsi que les points de notre programme à approfondir.
 
-### Rejoignez-nous à la prochaine réunion publique  
+
+
+Voici quelques images de cette réunion :
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid05jHnmcLCmsAw59NzWsDHR8KjEi6m7kcU3ESsF89Sy7cfCMsSo7UqxKjJPiHzUXxLl%26id%3D61587762264642&show_text=true&width=500" width="500" height="690" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+### Réjoignez-nous à la prochaine réunion publique  
 📅 Mardi 10 mars à 18h à la salle Occitanie.
 
 Venez continuer à échanger avec nous sur l'avenir de Combaillaux ! Nous présenterons la suite de nos mesures en repondant aux questions et suggestions des habitants qui ont afflué. Merci à eux !
