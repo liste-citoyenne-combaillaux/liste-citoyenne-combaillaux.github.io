@@ -70,7 +70,7 @@ versants ou les hauteurs de la commune
 <div class="info-box" markdown="1">
 
 ## Notre liste electorale est en construction
-La liste ci-dessous n'est pas notre liste électorale ! Celle-ci se construira avec tous les habitants qui souhaitent s'engager. Suite à notre **réunion publique du 15 février**, plusieurs dizaines d'habitants ont adhéré au projet et certains ont été ajouté à liste électorale. Nous publierons en fin de semaine la liste complète et définitive de nos candidats.
+La liste ci-dessous n'est pas notre liste électorale ! Celle-ci se construira avec tous les habitants qui souhaitent s'engager. Suite à notre **réunion publique du 15 février**, des habitants ont rejoint le comité de soutien. D'autres parmi les habitants ayant participé à la réunion, ont exprimé le souhait de rejoindre la liste électorale. Merci à eux ! Nous publierons en fin de semaine la liste complète et définitive de nos candidats.
 
 Venez nous rencontrer le **mardi 10 mars à 18h** lors de notre **seconde réunion publique** – venez découvrir la suite de nos propositions, qui tiendront compte de vos questions et suggestions !
 
