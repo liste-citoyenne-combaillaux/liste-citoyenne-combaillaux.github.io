@@ -92,7 +92,7 @@ h3 + p + ul {
 2. **🚶 🚴 Déployer un réseau de cheminements doux**
 
    * Cartographie des sentiers (ruraux, équestres...)
-   * Généraliser les trottoirs sur toute la commune pour la sécurité des piétons
+   * Mise en sécurité des déplacements piétons: aménagement de trottoirs sur les axes prioritaires.
    * Installation de bancs publics à différents endroits du village : sur le chemin de Branquedieu, au pump track, sur la place de l’hôtel de ville, chemin entre le vieux cimetière et le vieux village, sur la route qui mène aux Sajolles
    * [Favoriser les pistes cyclables](/documents.html#pistes-cyclables) pour circuler dans Combaillaux et vers l'extérieur
    * Connexion vers les périphéries :
@@ -103,7 +103,7 @@ h3 + p + ul {
 3. **🏛️ Investir dans le logement communal et le patrimoine**
 
    * Rénovation de l'ancienne Mairie pour le logement
-   * Valorisation du patrimoine (vieux village, Sajolles)
+   * Valorisation du patrimoine (vieux village, et la Roque des Sajolles)
    * Rénovation du vieux cimetière
    * Recherche de cofinancements pour limiter l'investissement communal
    * Généralisation du photovoltaïque sur les bâtiments publics
