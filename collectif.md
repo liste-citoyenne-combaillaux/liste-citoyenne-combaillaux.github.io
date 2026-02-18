@@ -70,7 +70,9 @@ versants ou les hauteurs de la commune
 <div class="info-box" markdown="1">
 
 ## Notre liste electorale est en construction
-La liste ci-dessous n'est pas notre liste électorale ! Celle-ci se construira avec tous les habitants qui souhaitent s'engager. Suite à notre **réunion publique du 15 février**, des habitants ont rejoint le comité de soutien. D'autres parmi les habitants ayant participé à la réunion, ont exprimé le souhait de rejoindre la liste électorale. Merci à eux ! Nous publierons en fin de semaine la liste complète et définitive de nos candidats.
+La liste ci-dessous n'est pas notre liste électorale ! Celle-ci se construira avec tous les habitants qui souhaitent s'engager. Suite à notre **réunion publique du 15 février**, des habitants ont rejoint le comité de soutien. D'autres, parmi les habitants ayant participé à la réunion, ont exprimé le souhait de rejoindre la liste électorale. Merci à eux !
+
+Nous publierons en fin de semaine la liste complète et définitive de nos candidats.
 
 Venez nous rencontrer le **mardi 10 mars à 18h** lors de notre **seconde réunion publique** – venez découvrir la suite de nos propositions, qui tiendront compte de vos questions et suggestions !
 
@@ -80,6 +82,8 @@ Venez nous rencontrer le **mardi 10 mars à 18h** lors de notre **seconde réuni
 ## Les membres du comité de soutien
 * Coraline **Alberti** - 36 ans, médecin addictologue, les Sajolles
 * Claire **Balavoine** - 67 ans, professeure des écoles à la retraite, les Sajolles
+* Carine **Biro** - commerçante produits de bien-être/naturopathie
+* Claudine **Carillo**, psychologue libérale
 * Cégolène **Colonna-Leroul** - 56 ans, consultante formatrice, les Sajolles
 * Christian **Combes** - 74, professeur des écoles à la retraite. Plaine du Mas de Gentil.
 * Jean-Louis **Couture** - 67 ans, ingénieur agronome, les Hauts de la Fontaine
@@ -97,6 +101,7 @@ Venez nous rencontrer le **mardi 10 mars à 18h** lors de notre **seconde réuni
 * Ezéchiel **Meireles** - 36 ans, cadre fonction publique (ARS), quartier les Pins d'Alep
 * Claudine **Ménard** - 54 ans, enseignante-chercheuse en biochimie, les Servants
 * Marie-Claude **Monleau** - 69 ans, informaticienne et chef d'entreprise retraitée, les Sajolles
+* Pierre **Pobeda** - artisan paysagiste JEV retraité, 
 * Clément **Rodriguez-Soulairol** - 19 ans, étudiant en droit, secteur Drailles
 * Jean-Bernard **Rodriguez** - 62 ans, dirigeant SSII retraité, secteur Drailles 
 * Isabelle **Soulairol** - 63 ans, responsable de projets informatiques à la DSI du Courrier retraitée, secteur Drailles
