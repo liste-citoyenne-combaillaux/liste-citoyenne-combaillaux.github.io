@@ -101,7 +101,7 @@ Venez nous rencontrer le **mardi 10 mars à 18h** lors de notre **seconde réuni
 * Ezéchiel **Meireles** - 36 ans, cadre fonction publique (ARS), quartier les Pins d'Alep
 * Claudine **Ménard** - 54 ans, enseignante-chercheuse en biochimie, les Servants
 * Marie-Claude **Monleau** - 69 ans, informaticienne et chef d'entreprise retraitée, les Sajolles
-* Pierre **Pobeda** - artisan paysagiste JEV retraité, 
+* Pierre **Pobeda** - 66 ans, artisan paysagiste JEV retraité, allée des Amandiers
 * Clément **Rodriguez-Soulairol** - 19 ans, étudiant en droit, secteur Drailles
 * Jean-Bernard **Rodriguez** - 62 ans, dirigeant SSII retraité, secteur Drailles 
 * Isabelle **Soulairol** - 63 ans, responsable de projets informatiques à la DSI du Courrier retraitée, secteur Drailles
