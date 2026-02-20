@@ -81,8 +81,8 @@ Dans le dernier [Baromètre des villes cyclables (2025)](https://www.barometre-v
 
 ## Pour un développement démographique raisonné de Combaillaux 
 
-* Le [SCOT](https://grandpicsaintloup.fr/actions-projets/schema-de-coherence-territoriale/un-scot/), qu’est-ce que c’est ?  Schéma de Cohérence Territoriale. Permet de prévoir et mettre en place l’accueil de nouveaux habitants sur plusieurs années à venir (voir [la page 13 de l'article du bulletin CCGPSL de décembre 2025](https://grandpicsaintloup.fr/content/uploads/2025/12/journal-52.pdf))
-* Les divisions parcellaires, une bonne idée ?  Aujourd’hui il y a une grosse pression démographique due à l’attractivité de Montpellier. La ville et les villages périphériques sont saturés. C’est aux villages de deuxième couronne d’accueillir ces nouveaux habitants, mais pas n'importe comment, et pas au détriment de la qualité de vie des combaillaulencs (voir [la page 13 de l'article du bulletin CCGPSL de décembre 2025](https://grandpicsaintloup.fr/content/uploads/2025/12/journal-52.pdf))
+* Le [SCOT](https://grandpicsaintloup.fr/actions-projets/schema-de-coherence-territoriale/un-scot/), qu’est-ce que c’est ?  Schéma de Cohérence Territoriale. Permet de prévoir et mettre en place l’accueil de nouveaux habitants sur plusieurs années à venir (voir [la page 13 de l'article du bulletin CCGPSL de décembre 2025](https://grandpicsaintloup.fr/content/uploads/2025/12/journal-52.pdf#page=13))
+* Les divisions parcellaires, une bonne idée ?  Aujourd’hui il y a une grosse pression démographique due à l’attractivité de Montpellier. La ville et les villages périphériques sont saturés. C’est aux villages de deuxième couronne d’accueillir ces nouveaux habitants, mais pas n'importe comment, et pas au détriment de la qualité de vie des combaillaulencs (voir [la page 12 de l'article du bulletin CCGPSL de décembre 2025](https://grandpicsaintloup.fr/content/uploads/2025/12/journal-52.pdf#page=12))
 * Ne dites plus « dents creuses » comme zone à construire mais « poumon vert » comme espace naturel de biodiversité  à protéger !
 
 </div>
