@@ -63,14 +63,32 @@ Dans cette section nous avons essayé de rassembler un maximum de **documents of
 
 * En janvier 2024, la Prefecture de l'Hérault a mis en demeure la CCGPSL de réhabiliter la station, car divers paramètres étaient hors des normes autorisées. Ce qui était révélateur d'un dysfonctionnement général de l'ensemble du processus d'épuration des eaux de nos rejets urbains :
     * [Lettre du Prefet](documents/lombristation_reponse_DDTM.jpg) du 18 novembre 2024 indiquant l'existence de la procédure de mise en demeure
-    * Deuxième [Lettre du Prefet](documents/DDTM_STEP_Combaillaux_suspension_temporaire.pdf) du 16 décembre 2024 indiquant qu’à la suite de la soumission par la CCGPSl d’un plan de réhabilitation la
-Préfecture suspendait sa mise en demeure jusqu'au début 2026, pour ainsi laisser le temps à la CCGPSL de réaliser son plan de réhabilitation.
+    * Deuxième [Lettre du Prefet](documents/DDTM_STEP_Combaillaux_suspension_temporaire.pdf) du 16 décembre 2024 indiquant qu’à la suite de la soumission par la CCGPSl d’un plan de réhabilitation la Préfecture suspendait sa mise en demeure jusqu'au début 2026, pour ainsi laisser le temps à la CCGPSL de réaliser son plan de réhabilitation.
+    * **Pendant toutes ces années la mairie de Combaillaux, la CCGPSL n'ont pas informé les habitants de cette situation.**
 
 * Le 13 mai 2025 la CCGPSL a adopté le schéma directeur d'assainissement des eaux usées du Grand Pic Saint-Loup.
     * 22 voix pour, 12 abstentions et 0 voix contre - aucun élu ne s'est opposé. Vous pouvez consulter le [Procés Vérbal CCGPSL](documents/Proces_verbal_conseil_2025-05-13.pdf) complet de cette réunion.
     * Voici l'[extrait du rapport d'expertise concernant Combaillaux](documents/schema_directeur_rapport_expertise_partie_Combaillaux_25_09_2025.pdf), où le projet d'une station d'épuration commune pour St Gély et Combaillaux sur les terres de Combaillaux est présenté comme le Scénario le plus probable.
     * Enfin, voici [le rapport d'expertise complet](documents/schema_directeur_rapport_expertise_25_09_2025.pdf) pour l'ensemble des communes de la CCGPSL (attention document volumineux).
-* Le 25 septembre 2025, la CCGPSL a présenté une [étude de faisabilité](documents/Diaporama_STEP_25Sept2025_Eau_Pic_St_Loup.pdf) du projet relatif à Combaillaux et St Gély qui a fait l'objet d'une étude complémentaire et spécifiquement dédiées. Notamment y sont présentées les parcelles étudiées pour la station inter-communale envisagée (pages 14-16 du document). Concernant l'étude des solutions avec l'intégration d'un lombrifiltre, il est indiqué "*En attente des retours du consortium NXO- Lombritek*". Rien n’est encore perdu aussi. Mobilisons-nous et **soutenez notre projet électoral**. Si nous gagnons ces élections, **nous demanderons des éclaircissements sur les scénarii envisagés et sur leurs évaluations financières tant en investissement que fonctionnement**. Nous nous batterons ensemble avec tous les habitants de Combaillaux pour que l'on ne nous impose pas la solution d'une station commune Combaillaux et St Gély, sur Combaillaux !
+    * **S’abstenir n’est pas voter contre.**. S'abstenir, c’est laisser la décision se faire sans position claire.
+    * **Pendant près de neuf mois, aucune communication n’a été faite aux habitants :**
+        * pas de réunion publique
+        * pas de note d’information
+        * pas de consultation
+        * pas d’explication sur les enjeux
+    * Ce n’est qu’en février 2026, après les alertes et les demandes répétées d’habitants, qu’une prise de parole publique a eu lieu.
+    * Nous considérons que sur un sujet aussi structurant, **la transparence aurait dû être immédiate**
+* Le 25 septembre 2025, la CCGPSL a présenté une [étude de faisabilité](documents/Diaporama_STEP_25Sept2025_Eau_Pic_St_Loup.pdf) du projet relatif à Combaillaux et St Gély qui a fait l'objet d'une étude complémentaire et spécifiquement dédiées. Notamment y sont présentées les parcelles étudiées pour la station inter-communale envisagée (pages 14-16 du document). Concernant l'étude des solutions avec l'intégration d'un lombrifiltre, il est indiqué "*En attente des retours du consortium NXO- Lombritek*". Rien n’est encore perdu aussi.
+* Le maire de Combaillaux affirme envisager de refuser le permis de la future station Saint-Gély + Combaillaux. Cependant, **la loi est claire sur ce point**:
+    * En l’absence de PLU, l’article L. 422-5 du Code de l’urbanisme impose au maire de recueillir l’avis conforme du Préfet.
+    * Un avis conforme signifie que la décision du maire est juridiquement liée à celle du Préfet.
+    * En cas de déclaration d’utilité publique (DUP), le refus du maire ne tient plus juridiqument.
+
+Ces éléments ne relèvent pas d’une interprétation politique, mais du droit en vigueur.
+
+Il est essentiel que les habitants disposent d’une information complète et sincère sur les marges de manœuvre réelles de la commune.
+
+Mobilisons-nous et **soutenez notre projet électoral**. Si nous gagnons ces élections, **nous demanderons des éclaircissements sur les scénarii envisagés et sur leurs évaluations financières tant en investissement que fonctionnement**. Nous nous batterons ensemble avec tous les habitants de Combaillaux pour que l'on ne nous impose pas la solution d'une station commune Combaillaux et St Gély, sur Combaillaux ! Et ce, en proposant des alternatives crédibles, scientifiquement argumentées et avec l'appui de tous les habitants.
 
 
 ## Pistes cyclables
