@@ -76,7 +76,7 @@ Dans cette section nous avons essayé de rassembler un maximum de **documents of
         * pas de note d’information
         * pas de consultation
         * pas d’explication sur les enjeux
-    * Ce n’est qu’en février 2026, après les alertes et les demandes répétées d’habitants, qu’une prise de parole publique a eu lieu.
+    * Ce n’est qu’en février 2026, après les alertes et les demandes répétées d’habitants, que le maire s'exprime, mais sans donner l'information concernant le dysfonctionnement de la STEP, sans expliquer pourquoi il s'est abstenu lors du vote. Et surtout, sans fournir des documents officiels.
     * Nous considérons que sur un sujet aussi structurant, **la transparence aurait dû être immédiate**
 * Le 25 septembre 2025, la CCGPSL a présenté une [étude de faisabilité](documents/Diaporama_STEP_25Sept2025_Eau_Pic_St_Loup.pdf) du projet relatif à Combaillaux et St Gély qui a fait l'objet d'une étude complémentaire et spécifiquement dédiées. Notamment y sont présentées les parcelles étudiées pour la station inter-communale envisagée (pages 14-16 du document). Concernant l'étude des solutions avec l'intégration d'un lombrifiltre, il est indiqué "*En attente des retours du consortium NXO- Lombritek*". Rien n’est encore perdu aussi.
 * Le maire de Combaillaux affirme envisager de refuser le permis de la future station Saint-Gély + Combaillaux. Cependant, **la loi est claire sur ce point**:
