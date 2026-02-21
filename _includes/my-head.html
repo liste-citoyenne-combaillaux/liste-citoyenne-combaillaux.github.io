@@ -246,6 +246,18 @@ h2.h1,
   color: #1877F2 !important; /* Official Facebook blue */
   }
 
+/* Fix Instagram icon display */
+  a[href*="instagram"] .icon-link::before,
+  a[title="instagram"] .icon-link::before {
+    content: "\f16d";
+    font-family: "Font Awesome 6 Brands", "Font Awesome 5 Brands", "FontAwesome";
+    font-weight: 400;
+    font-style: normal;
+    display: inline-block;
+    font-size: 2rem !important;
+    color: #E4405F !important;
+  }
+
 
 
 /* Décaler le contenu pour ne pas être caché par la sidebar + augmenter largeur à droite */
