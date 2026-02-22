@@ -59,7 +59,7 @@ h3 + p + ul {
 Sur cette page nous mettrons au fur et à mesure les différents documents pour argumenter les choix des priorités de notre programme.
 
 ## Lombristation - Station d'épuration (STEP) de Combaillaux
-Dans cette section nous avons essayé de rassembler un maximum de **documents officiels** concernant les problèmes de dysfonctionnement de la station d'épuration de Combaillaux (lit bactérien, lombrifiltre et lagunage). Ce qui nous motive dans notre programme électoral, c'est l'absence totale de concertation de la population sur ce sujet : ni lettre d'information des habitants, ni une mention dans le journal municipal, ni réunion publique.
+Dans cette section nous avons essayé de rassembler un maximum de **documents officiels** concernant les problèmes de dysfonctionnement de la station d'épuration de Combaillaux (lit bactérien, lombrifiltre et lagunage). Ce qui nous motive dans notre programme électoral, c'est l'absence totale de concertation de la population sur ce sujet : ni lettre d'information aux habitants, ni une mention dans le journal municipal Aïol, ni réunion publique.
 
 * En janvier 2024, la Prefecture de l'Hérault a mis en demeure la CCGPSL de réhabiliter la station, car divers paramètres étaient hors des normes autorisées. Ce qui était révélateur d'un dysfonctionnement général de l'ensemble du processus d'épuration des eaux de nos rejets urbains :
     * [Lettre du Prefet](documents/lombristation_reponse_DDTM.jpg) du 18 novembre 2024 indiquant l'existence de la procédure de mise en demeure
@@ -82,7 +82,7 @@ Dans cette section nous avons essayé de rassembler un maximum de **documents of
 * Le maire de Combaillaux affirme envisager de refuser le permis de la future station Saint-Gély + Combaillaux. Cependant, **la loi est claire sur ce point**:
     * En l’absence de PLU, l’article L. 422-5 du Code de l’urbanisme impose au maire de recueillir l’avis conforme du Préfet.
     * Un avis conforme signifie que la décision du maire est juridiquement liée à celle du Préfet.
-    * En cas de déclaration d’utilité publique (DUP), le refus du maire ne tient plus juridiqument.
+    * En cas de déclaration d’utilité publique (DUP) par la Préfecture, le refus du maire ne tient pas juridiqument.
 
 Ces éléments ne relèvent pas d’une interprétation politique, mais du droit en vigueur.
 
