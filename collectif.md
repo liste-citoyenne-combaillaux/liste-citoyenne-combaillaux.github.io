@@ -96,7 +96,6 @@ Venez nous rencontrer le **mardi 10 mars à 18h** lors de notre **seconde réuni
 * Claude **Hammecker** - 61 ans, directeur de recherche science du sol à l'IRD, quartier du Patus
 * Olivier **Hoibian** - 70 ans, historien et sociologue retraité, quartier des Sajolles
 * Hélène **Ilbert** - 72 ans, chercheuse en économie politique, plaine du Mas de Gentil
-* Chloé **Lerin** - 32 ans, ingénieur agronome en installation agricole, Plaine du Mas de Gentil
 * François **Lerin** - chercheur médiateur en agroenvironnement, Plaine du Mas de Gentil
 * Ezéchiel **Meireles** - 36 ans, cadre fonction publique (ARS), quartier les Pins d'Alep
 * Claudine **Ménard** - 54 ans, enseignante-chercheuse en biochimie, les Servants
