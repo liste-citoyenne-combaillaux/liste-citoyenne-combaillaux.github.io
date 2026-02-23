@@ -75,14 +75,14 @@ Suite à notre **réunion publique du 15 février**, des habitants ont rejoint n
 
  <div class="info-box" markdown="1">
 
-## Notre liste electorale
+## Notre liste électorale
 
 * Jean-Louis **Couture** - **Tête de liste**, 67 ans, ingénieur agronome, les Hauts de la Fontaine
 <br><br>
 * Coraline **Alberti** - 36 ans, médecin addictologue, les Sajolles
 * Claire **Balavoine** - 67 ans, professeure des écoles à la retraite, les Sajolles
-* Christian **Combes** - 74, professeur des écoles à la retraite. plaine du Mas de Gentil.
-* Jean-Marie **Crapez** 67 ans, professeur spécialisé pour déficients auditifs retraité
+* Christian **Combes** - 74 ans, professeur des écoles à la retraite. plaine du Mas de Gentil.
+* Jean-Marie **Crapez** - 67 ans, professeur spécialisé pour déficients auditifs retraité
 * Ludwig **Forte** - 34 ans, Consultant systèmes d'information, secteur Branquedieu
 * Léane **Freyburger-Giouve** - 18 ans, étudiante en droit, les Sajolles
 * Véronique **Granit** - 43 ans, orthophoniste, quartier les Pins d'Alep
@@ -106,7 +106,7 @@ Suite à notre **réunion publique du 15 février**, des habitants ont rejoint n
 * Carine **Biro** - commerçante produits de bien-être/naturopathie
 * Claudine **Carillo**, psychologue libérale
 * Cégolène **Colonna-Leroul** - 56 ans, consultante formatrice, les Sajolles
-* Sébastien **Freyburger** - 48 ans, cadre fonction publique territoriale (Region), les Sajolles
+* Sébastien **Freyburger** - 48 ans, cadre fonction publique territoriale (Région), les Sajolles
 * Ezéchiel **Meireles** - 36 ans, cadre fonction publique (ARS), quartier les Pins d'Alep
 * Pierre **Pobeda** - 66 ans, artisan paysagiste JEV retraité, allée des Amandiers
 * Jean-Bernard **Rodriguez** - 62 ans, dirigeant SSII retraité, secteur Drailles 
