@@ -288,6 +288,8 @@ h2.h1,
   .sidebar-nav::before {
     line-height: 1.2 !important; /* Reduced from default */
     font-size: 1.4rem !important; /* Optionally reduce font size too */
+    overflow: auto; /* or scroll */
+    overscroll-behavior: contain; /* optional: prevents scroll chaining */
   }
 }
 
