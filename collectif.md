@@ -81,7 +81,7 @@ Suite à notre **réunion publique du 15 février**, des habitants ont rejoint n
 3. Petru **Valicov** - 39 ans, enseignant-chercheur en informatique, les Sajolles
 4. Marie-Claude **Monleau** - 69 ans, informaticienne et chef d'entreprise retraitée, les Sajolles
 5. Daniel **Guiral** - 74 ans, directeur de recherche hydrobiologiste retraité (IRD), quartier du Patus
-6. Isabelle **Soulairol** - 63 ans, responsable de projets informatiques à la DSI du Courrier retraitée
+6. Isabelle **Soulairol** - 63 ans, responsable de projets informatiques à la DSI du Courrier retraitée, secteur Drailles
 7. Ludwig **Forte** - 34 ans, Consultant systèmes d'information, secteur Branquedieu
 8. Hélène **Ilbert** - 72 ans, chercheuse en économie politique, plaine du Mas de Gentil
 9. Olivier **Hoibian** - 70 ans, historien et sociologue retraité, quartier des Sajolles
