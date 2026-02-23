@@ -73,11 +73,15 @@ Suite à notre **réunion publique du 15 février**, des habitants ont rejoint n
 
 </div> -->
 
+ <div class="info-box" markdown="1">
+
 ## Notre liste electorale
+
+* Jean-Louis **Couture** - **Tête de liste**, 67 ans, ingénieur agronome, les Hauts de la Fontaine
+<br><br>
 * Coraline **Alberti** - 36 ans, médecin addictologue, les Sajolles
 * Claire **Balavoine** - 67 ans, professeure des écoles à la retraite, les Sajolles
 * Christian **Combes** - 74, professeur des écoles à la retraite. plaine du Mas de Gentil.
-* Jean-Louis **Couture** - 67 ans, ingénieur agronome, les Hauts de la Fontaine
 * Ludwig **Forte** - 34 ans, Consultant systèmes d'information, secteur Branquedieu
 * Jean-Marie **Crapez** 67 ans, professeur spécialisé pour déficients auditifs retraité
 * Léane **Freyburger-Giouve** - 18 ans, étudiante en droit, les Sajolles
@@ -95,6 +99,7 @@ Suite à notre **réunion publique du 15 février**, des habitants ont rejoint n
 * Laurence **Taubiana** - 76 ans, Présidente du CA de l'Agence française de développement, plaine du Mas de Gentil
 * Petru **Valicov** - 39 ans, enseignant-chercheur en informatique, les Sajolles
 * Michel **Vanneste** - 57 ans, chirurgien-orthopédiste, les Servantssecteur Drailles
+</div>
 
 
 ## Le comité de soutien
