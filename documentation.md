@@ -58,6 +58,11 @@ h3 + p + ul {
 
 Sur cette page nous mettrons au fur et à mesure les différents documents pour argumenter les choix des priorités de notre programme.
 
+## Présentation de la première réunion publique du 15 février 2026
+Le dimanche 15 février entre 10h30-12h30 nous avons organisé notre première réunion publique avec les habitants pour présenter les esquisses notre projet électoral.
+
+Nous mettons en ligne le document de [Présentation de la réunion publique du 15 février 2026](documents/Presentation_reunion_publique_15_fevrier_2026.pdf).
+
 ## Lombristation - Station d'épuration (STEP) de Combaillaux
 Dans cette section nous avons essayé de rassembler un maximum de **documents officiels** concernant les problèmes de dysfonctionnement de la station d'épuration de Combaillaux (lit bactérien, lombrifiltre et lagunage). Ce qui nous motive dans notre programme électoral, c'est l'absence totale de concertation de la population sur ce sujet : ni lettre d'information aux habitants, ni une mention dans le journal municipal Aïol, ni réunion publique.
 
