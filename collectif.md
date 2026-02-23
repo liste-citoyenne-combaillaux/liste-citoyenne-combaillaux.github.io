@@ -98,7 +98,7 @@ Suite à notre **réunion publique du 15 février**, des habitants ont rejoint n
 * Isabelle **Soulairol** - 63 ans, responsable de projets informatiques à la DSI du Courrier retraitée
 * Laurence **Taubiana** - 76 ans, Présidente du CA de l'Agence française de développement, plaine du Mas de Gentil
 * Petru **Valicov** - 39 ans, enseignant-chercheur en informatique, les Sajolles
-* Michel **Vanneste** - 57 ans, chirurgien-orthopédiste, les Servantssecteur Drailles
+* Michel **Vanneste** - 57 ans, chirurgien-orthopédiste, les Servants
 </div>
 
 
