@@ -86,8 +86,8 @@ Suite à notre **réunion publique du 15 février**, des habitants ont rejoint n
 7. Ludwig **Forte** - 34 ans, Consultant systèmes d'information, secteur Branquedieu
 8. Hélène **Ilbert** - 72 ans, chercheuse en économie politique, plaine du Mas de Gentil
 9. Olivier **Hoibian** - 70 ans, historien et sociologue retraité, quartier des Sajolles
-10. Claire **Balavoine** - 67 ans, professeure des écoles à la retraite, les Sajolles
-11. Christian **Combes** - 74 ans, professeur des écoles à la retraite. plaine du Mas de Gentil.
+10. Claire **Balavoine** - 67 ans, professeure des écoles retraitée, les Sajolles
+11. Christian **Combes** - 74 ans, professeur des écoles retraité. plaine du Mas de Gentil.
 12. Coraline **Alberti** - 36 ans, médecin addictologue, les Sajolles
 13. Clément **Rodriguez-Soulairol** - 19 ans, étudiant en droit, secteur Drailles
 14. Claudine **Ménard** - 54 ans, enseignante-chercheuse en biochimie, les Servants
