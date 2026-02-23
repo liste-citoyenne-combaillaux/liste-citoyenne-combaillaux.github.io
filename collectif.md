@@ -52,11 +52,10 @@ h3 + p + ul {
 }
 </style>
 
-Une équipe motivée pour proposer un projet municipal **alternatif** à ce qui est en place depuis de nombreuses années sur Combaillaux.
+Une équipe motivée pour proposer un projet municipal **alternatif** à ce qui est en place depuis de nombreuses années sur Combaillaux. **Ce collectif se veut pluriel et dynamique** :
 
 <div class="collectif-page" markdown="1">
 
-**Ce collectif se veut pluriel et dynamique** :
 
 * Femmes et hommes de **différentes générations**
 * Habitant **différents lieux dits de Combaillaux** que ce soit dans la plaine, les
