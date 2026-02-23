@@ -82,8 +82,8 @@ Suite à notre **réunion publique du 15 février**, des habitants ont rejoint n
 * Coraline **Alberti** - 36 ans, médecin addictologue, les Sajolles
 * Claire **Balavoine** - 67 ans, professeure des écoles à la retraite, les Sajolles
 * Christian **Combes** - 74, professeur des écoles à la retraite. plaine du Mas de Gentil.
-* Ludwig **Forte** - 34 ans, Consultant systèmes d'information, secteur Branquedieu
 * Jean-Marie **Crapez** 67 ans, professeur spécialisé pour déficients auditifs retraité
+* Ludwig **Forte** - 34 ans, Consultant systèmes d'information, secteur Branquedieu
 * Léane **Freyburger-Giouve** - 18 ans, étudiante en droit, les Sajolles
 * Véronique **Granit** - 43 ans, orthophoniste, quartier les Pins d'Alep
 * Danièle **Guigou** - 68 ans, peintre-sculptrice, les Sajolles
@@ -96,7 +96,7 @@ Suite à notre **réunion publique du 15 février**, des habitants ont rejoint n
 * Marie-Claude **Monleau** - 69 ans, informaticienne et chef d'entreprise retraitée, les Sajolles
 * Clément **Rodriguez-Soulairol** - 19 ans, étudiant en droit, secteur Drailles
 * Isabelle **Soulairol** - 63 ans, responsable de projets informatiques à la DSI du Courrier retraitée
-* Laurence **Taubiana** - 76 ans, Présidente du CA de l'Agence française de développement, plaine du Mas de Gentil
+* Laurence **Tubiana** - 76 ans, Présidente du CA de l'Agence française de développement, plaine du Mas de Gentil
 * Petru **Valicov** - 39 ans, enseignant-chercheur en informatique, les Sajolles
 * Michel **Vanneste** - 57 ans, chirurgien-orthopédiste, les Servants
 </div>
