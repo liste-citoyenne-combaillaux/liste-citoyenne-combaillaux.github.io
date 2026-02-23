@@ -77,28 +77,28 @@ Suite à notre **réunion publique du 15 février**, des habitants ont rejoint n
 
 ## Notre liste électorale
 
-* Jean-Louis **Couture** - **Tête de liste**, 67 ans, ingénieur agronome, les Hauts de la Fontaine
+1. Jean-Louis **Couture** - **Tête de liste**, 67 ans, ingénieur agronome, les Hauts de la Fontaine
 <br><br>
-* Coraline **Alberti** - 36 ans, médecin addictologue, les Sajolles
+* Véronique **Granit** - 43 ans, orthophoniste, quartier les Pins d'Alep
+* Petru **Valicov** - 39 ans, enseignant-chercheur en informatique, les Sajolles
+* Marie-Claude **Monleau** - 69 ans, informaticienne et chef d'entreprise retraitée, les Sajolles
+* Daniel **Guiral** - 74 ans, directeur de recherche hydrobiologiste retraité (IRD), quartier du Patus
+* Isabelle **Soulairol** - 63 ans, responsable de projets informatiques à la DSI du Courrier retraitée
+* Ludwig **Forte** - 34 ans, Consultant systèmes d'information, secteur Branquedieu
+* Hélène **Ilbert** - 72 ans, chercheuse en économie politique, plaine du Mas de Gentil
+* Olivier **Hoibian** - 70 ans, historien et sociologue retraité, quartier des Sajolles
 * Claire **Balavoine** - 67 ans, professeure des écoles à la retraite, les Sajolles
 * Christian **Combes** - 74 ans, professeur des écoles à la retraite. plaine du Mas de Gentil.
-* Jean-Marie **Crapez** - 67 ans, professeur spécialisé pour déficients auditifs retraité
-* Ludwig **Forte** - 34 ans, Consultant systèmes d'information, secteur Branquedieu
-* Léane **Freyburger-Giouve** - 18 ans, étudiante en droit, les Sajolles
-* Véronique **Granit** - 43 ans, orthophoniste, quartier les Pins d'Alep
-* Danièle **Guigou** - 68 ans, peintre-sculptrice, les Sajolles
-* Daniel **Guiral** - 74 ans, directeur de recherche hydrobiologiste retraité (IRD), quartier du Patus
-* Claude **Hammecker** - 61 ans, directeur de recherche science du sol à l'IRD, quartier du Patus
-* Olivier **Hoibian** - 70 ans, historien et sociologue retraité, quartier des Sajolles
-* Hélène **Ilbert** - 72 ans, chercheuse en économie politique, plaine du Mas de Gentil
-* François **Lerin** - chercheur médiateur en agroenvironnement, plaine du Mas de Gentil
-* Claudine **Ménard** - 54 ans, enseignante-chercheuse en biochimie, les Servants
-* Marie-Claude **Monleau** - 69 ans, informaticienne et chef d'entreprise retraitée, les Sajolles
+* Coraline **Alberti** - 36 ans, médecin addictologue, les Sajolles
 * Clément **Rodriguez-Soulairol** - 19 ans, étudiant en droit, secteur Drailles
-* Isabelle **Soulairol** - 63 ans, responsable de projets informatiques à la DSI du Courrier retraitée
-* Laurence **Tubiana** - 76 ans, Présidente du CA de l'Agence française de développement, plaine du Mas de Gentil
-* Petru **Valicov** - 39 ans, enseignant-chercheur en informatique, les Sajolles
+* Claudine **Ménard** - 54 ans, enseignante-chercheuse en biochimie, les Servants
 * Michel **Vanneste** - 57 ans, chirurgien-orthopédiste, les Servants
+* Danièle **Guigou** - 68 ans, peintre-sculptrice, les Sajolles
+* Jean-Marie **Crapez** - 67 ans, professeur spécialisé pour déficients auditifs retraité
+* Laurence **Tubiana** - 76 ans, Présidente du CA de l'Agence française de développement, plaine du Mas de Gentil
+* François **Lerin** - chercheur médiateur en agroenvironnement, plaine du Mas de Gentil
+* Léane **Freyburger-Giouve** - 18 ans, étudiante en droit, les Sajolles
+* Claude **Hammecker** - 61 ans, directeur de recherche science du sol à l'IRD, quartier du Patus
 </div>
 
 
