@@ -68,12 +68,12 @@ h3 + p + ul {
         * Prise en compte des propositions citoyennes
    * **Portail citoyen moderne** pour [**www.combaillaux.fr**](http://www.combaillaux.fr)  :
         * Création d'un espace de discussion et d'échanges en ligne
-        * Centralisation sur ce site **de tous les documents** (comptes-rendus, budgets, documents d'urbanisme, appels d'offre etc.)
+        * Centralisation sur ce site **de tous les documents** (comptes-rendus, budgets, documents d'urbanisme, appels d'offres etc.)
         * Agenda des événements et initiatives locales - communication renforcée sur [IntraMuros](https://www.intramuros.org/combaillaux/actualites?status=300&categorie=city)
    * Ouverture d'une tribune dans le journal municipal l'_Aïol_
         * pour tous les habitants de Combaillaux, y compris ceux qui ne font pas partie des listes élues
 
-   * Elaboration d'un plan numérique pour simplifier les démarches et l'accessibilité
+   * Élaboration d'un plan numérique pour simplifier les démarches et l'accessibilité
 
 
 ## Repenser urbanisme, infrastructures et mobilités
@@ -81,7 +81,7 @@ h3 + p + ul {
 
 1. **🌍 Urbanisme et Climat (PLU)**
 
-   * [Réhabilitation de la lombristation](documents/lombristation_reponse_DDTM.jpg) et refus catégorique d'une [mega-station d'épuration commune pour St Gély et Combaillaux](documents/schema_directeur_rapport_expertise_partie_Combaillaux_25_09_2025.pdf) implantée à Combaillaux
+   * [Réhabilitation de la lombristation](documents/lombristation_reponse_DDTM.jpg) et refus catégorique d'une [méga-station d'épuration commune pour St Gély et Combaillaux](documents/schema_directeur_rapport_expertise_partie_Combaillaux_25_09_2025.pdf) implantée à Combaillaux
    * Gérer et protéger la ressource en eau : nappe phréatique, eau potable, zone de captage, récupération des eaux pluviales etc.
    * Désimperméabilisation et végétalisation de la cour d'école et du parking coeur du village
    * Meilleure prise en compte des risques lors de l'attribution des permis de construire (argiles gonflantes, inondations, incendies)
@@ -114,7 +114,7 @@ h3 + p + ul {
 1. **Inciter aux échanges de connaissances et de savoir-faire**
 
    * Cycles d'événements thématiques (jardinage, construction, informatique...)
-   * Initiation botanique/ornithologie en vue de raliser l'Atlas de la Biodiversité Communale (ABC)
+   * Initiation botanique/ornithologie en vue de réaliser l'Atlas de la Biodiversité Communale (ABC)
    * Création d'un lieu de vie intergénérationnel (type repair-café)
 
 2. **Valoriser les projets et initiatives individuelles ou collectives**
