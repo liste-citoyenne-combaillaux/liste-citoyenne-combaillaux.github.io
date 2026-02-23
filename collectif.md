@@ -67,28 +67,19 @@ versants ou les hauteurs de la commune
 * Avec **un mode de fonctionnement horizontal** : pas de maire qui décide seul, mais une équipe qui construit et porte les projets collectivement
 
 
-<div class="info-box" markdown="1">
+<!-- <div class="info-box" markdown="1">
 
-## Notre liste electorale est en construction
-La liste ci-dessous n'est pas notre liste électorale ! Celle-ci se construira avec tous les habitants qui souhaitent s'engager. Suite à notre **réunion publique du 15 février**, des habitants ont rejoint le comité de soutien. D'autres, parmi les habitants ayant participé à la réunion, ont exprimé le souhait de rejoindre la liste électorale. Merci à eux !
+Suite à notre **réunion publique du 15 février**, des habitants ont rejoint notre liste electorale et le comité de soutien. Merci à eux !
 
-Nous publierons en fin de semaine la liste complète et définitive de nos candidats.
+</div> -->
 
-Venez nous rencontrer le **mardi 10 mars à 18h** lors de notre **seconde réunion publique** – venez découvrir la suite de nos propositions, qui tiendront compte de vos questions et suggestions !
-
-</div>
-
-
-## Les membres du comité de soutien
+## Notre liste electorale
 * Coraline **Alberti** - 36 ans, médecin addictologue, les Sajolles
 * Claire **Balavoine** - 67 ans, professeure des écoles à la retraite, les Sajolles
-* Carine **Biro** - commerçante produits de bien-être/naturopathie
-* Claudine **Carillo**, psychologue libérale
-* Cégolène **Colonna-Leroul** - 56 ans, consultante formatrice, les Sajolles
-* Christian **Combes** - 74, professeur des écoles à la retraite. Plaine du Mas de Gentil.
+* Christian **Combes** - 74, professeur des écoles à la retraite. plaine du Mas de Gentil.
 * Jean-Louis **Couture** - 67 ans, ingénieur agronome, les Hauts de la Fontaine
 * Ludwig **Forte** - 34 ans, Consultant systèmes d'information, secteur Branquedieu
-* Sébastien **Freyburger** - 48 ans, cadre fonction publique territoriale (Region), les Sajolles
+* Jean-Marie **Crapez** 67 ans, professeur spécialisé pour déficients auditifs retraité
 * Léane **Freyburger-Giouve** - 18 ans, étudiante en droit, les Sajolles
 * Véronique **Granit** - 43 ans, orthophoniste, quartier les Pins d'Alep
 * Danièle **Guigou** - 68 ans, peintre-sculptrice, les Sajolles
@@ -96,16 +87,24 @@ Venez nous rencontrer le **mardi 10 mars à 18h** lors de notre **seconde réuni
 * Claude **Hammecker** - 61 ans, directeur de recherche science du sol à l'IRD, quartier du Patus
 * Olivier **Hoibian** - 70 ans, historien et sociologue retraité, quartier des Sajolles
 * Hélène **Ilbert** - 72 ans, chercheuse en économie politique, plaine du Mas de Gentil
-* François **Lerin** - chercheur médiateur en agroenvironnement, Plaine du Mas de Gentil
-* Ezéchiel **Meireles** - 36 ans, cadre fonction publique (ARS), quartier les Pins d'Alep
+* François **Lerin** - chercheur médiateur en agroenvironnement, plaine du Mas de Gentil
 * Claudine **Ménard** - 54 ans, enseignante-chercheuse en biochimie, les Servants
 * Marie-Claude **Monleau** - 69 ans, informaticienne et chef d'entreprise retraitée, les Sajolles
-* Pierre **Pobeda** - 66 ans, artisan paysagiste JEV retraité, allée des Amandiers
 * Clément **Rodriguez-Soulairol** - 19 ans, étudiant en droit, secteur Drailles
-* Jean-Bernard **Rodriguez** - 62 ans, dirigeant SSII retraité, secteur Drailles 
-* Isabelle **Soulairol** - 63 ans, responsable de projets informatiques à la DSI du Courrier retraitée, secteur Drailles
+* Isabelle **Soulairol** - 63 ans, responsable de projets informatiques à la DSI du Courrier retraitée
+* Laurence **Taubiana** - 76 ans, Présidente du CA de l'Agence française de développement, plaine du Mas de Gentil
 * Petru **Valicov** - 39 ans, enseignant-chercheur en informatique, les Sajolles
-* Michel **Vanneste** - 57 ans, chirurgien-orthopédiste, les Servants
+* Michel **Vanneste** - 57 ans, chirurgien-orthopédiste, les Servantssecteur Drailles
+
+
+## Le comité de soutien
+* Carine **Biro** - commerçante produits de bien-être/naturopathie
+* Claudine **Carillo**, psychologue libérale
+* Cégolène **Colonna-Leroul** - 56 ans, consultante formatrice, les Sajolles
+* Sébastien **Freyburger** - 48 ans, cadre fonction publique territoriale (Region), les Sajolles
+* Ezéchiel **Meireles** - 36 ans, cadre fonction publique (ARS), quartier les Pins d'Alep
+* Pierre **Pobeda** - 66 ans, artisan paysagiste JEV retraité, allée des Amandiers
+* Jean-Bernard **Rodriguez** - 62 ans, dirigeant SSII retraité, secteur Drailles 
 
 
 Contactez-nous dès maintenant (<a href="mailto:contact@combaillaux-autrement.fr">contact@combaillaux-autrement.fr</a>) pour partager vos idées et/ou rejoindre l'aventure.
