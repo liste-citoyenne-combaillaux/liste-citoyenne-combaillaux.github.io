@@ -56,22 +56,6 @@ Une équipe motivée pour proposer un projet municipal **alternatif** à ce qui 
 
 <div class="collectif-page" markdown="1">
 
-
-* Femmes et hommes de **différentes générations**
-* Habitant **différents lieux dits de Combaillaux** que ce soit dans la plaine, les
-versants ou les hauteurs de la commune
-* Portés par des **savoir-faire variés** : expériences dans le culturel, le social, l'éducation, l'agriculture, la santé, les sports, la gestion, l'informatique, les sciences ou l'écologie.
-* **Déjà investis sur le terrain** : actifs dans les associations, l'animation locale et les échanges de savoir-faire
-* Désireux de **construire ensemble** l'avenir de Combaillaux
-* Avec **un mode de fonctionnement horizontal** : pas de maire qui décide seul, mais une équipe qui construit et porte les projets collectivement
-
-
-<!-- <div class="info-box" markdown="1">
-
-Suite à notre **réunion publique du 15 février**, des habitants ont rejoint notre liste electorale et le comité de soutien. Merci à eux !
-
-</div> -->
-
  <div class="info-box" markdown="1">
 
 ## Notre liste électorale
@@ -98,6 +82,15 @@ Suite à notre **réunion publique du 15 février**, des habitants ont rejoint n
 20. Léane **Freyburger-Giouve** - 18 ans, étudiante en droit, les Sajolles
 21. Claude **Hammecker** - 61 ans, directeur de recherche science du sol à l'IRD, quartier du Patus
 </div>
+
+
+* Femmes et hommes de **différentes générations**
+* Habitant **différents lieux dits de Combaillaux** que ce soit dans la plaine, les
+versants ou les hauteurs de la commune
+* Portés par des **savoir-faire variés** : expériences dans le culturel, le social, l'éducation, l'agriculture, la santé, les sports, la gestion, l'informatique, les sciences ou l'écologie.
+* **Déjà investis sur le terrain** : actifs dans les associations, l'animation locale et les échanges de savoir-faire
+* Désireux de **construire ensemble** l'avenir de Combaillaux
+* Avec **un mode de fonctionnement horizontal** : pas de maire qui décide seul, mais une équipe qui construit et porte les projets collectivement
 
 
 ## Le comité de soutien
