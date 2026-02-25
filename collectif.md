@@ -76,7 +76,7 @@ h3 + p + ul {
 15. Michel **Vanneste** - 57 ans, chirurgien-orthopédiste, les Servants
 16. Danièle **Guigou** - 68 ans, peintre-sculptrice, les Sajolles
 17. Jean-Marie **Crapez** - 67 ans, professeur spécialisé pour déficients auditifs retraité
-18. Laurence **Tubiana** - 76 ans, Présidente du CA de l'Agence française de développement, plaine du Mas de Gentil
+18. Laurence **Tubiana** - Directrice de la Fondation Européenne pour le Climat, plaine du Mas de Gentil
 19. François **Lerin** - chercheur médiateur en agroenvironnement, plaine du Mas de Gentil
 20. Léane **Freyburger-Giouve** - 18 ans, étudiante en droit, les Sajolles
 21. Claude **Hammecker** - 61 ans, directeur de recherche science du sol à l'IRD, quartier du Patus
