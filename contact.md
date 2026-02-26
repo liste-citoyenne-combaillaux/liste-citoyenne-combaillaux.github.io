@@ -74,4 +74,8 @@ Vous êtes intéressé, n'hésitez pas à nous contacter (<a href="mailto:contac
 
 **On sera présent au cours des prochaines semaines pour tracter, se rencontrer, nous présenter et échanger sur les projets à mener sur notre commune ! À bientôt !**
 
+Suivez-nous sur les réseaux sociaux pour être au courant de nos actualités et de nos événements :
+* [Facebook](https://www.facebook.com/people/Combaillaux-Autrement/61587762264642/)
+* [Instagram](https://www.instagram.com/combaillaux.autrement)
+
 </div>
