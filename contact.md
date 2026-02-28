@@ -59,7 +59,7 @@ Voici un petit descriptif et quelques images de cette réunion :
 
 
 ### Rejoignez-nous à la prochaine réunion publique  
-📅 Mardi 10 mars **(heure à confirmer)** à la salle Occitanie.
+📅 Mardi 10 mars à 20h30 à la salle Occitanie.
 
 Venez continuer à échanger avec nous sur l'avenir de Combaillaux ! Nous présenterons la suite de nos mesures en repondant aux questions et suggestions des habitants qui ont afflué. Merci à eux !
 
