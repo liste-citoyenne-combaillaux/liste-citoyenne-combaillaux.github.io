@@ -108,4 +108,14 @@ Dans le dernier [Baromètre des villes cyclables (2025)](https://www.barometre-v
 * Les divisions parcellaires, une bonne idée ?  Aujourd’hui il y a une grosse pression démographique due à l’attractivité de Montpellier. La ville et les villages périphériques sont saturés. C’est aux villages de deuxième couronne d’accueillir ces nouveaux habitants, mais pas n'importe comment, et pas au détriment de la qualité de vie des combaillaulencs (voir [la page 12 de l'article du bulletin CCGPSL de décembre 2025](https://grandpicsaintloup.fr/content/uploads/2025/12/journal-52.pdf#page=12))
 * Ne dites plus « dents creuses » comme zone à construire mais « poumon vert » comme espace naturel de biodiversité  à protéger !
 
+## Sport, nature et convivialité : l’avenir de nos infrastructures
+Nous sommes tous conscients de l'importance de l'activité physique régulière pour la santé et les liens sociaux. Les associations sportives et d’entretien physiques (gymnastique, yoga, etc.) de Combaillaux réalisent un travail formidable au profit des habitants et notre programme prévoit de les soutenir en concertation avec elles pour mieux connaitre leurs besoins. 
+
+Pour les tennis, nous souhaitons les maintenir dans leur espace actuel afin qu’ils restent à proximité des écoles et du coeur de village pour faciliter leur utilisation par les scolaires. Nous soutenons le besoin de rénovation, voire d’agrandissement du club avec un court supplémentaire. mais nous ne pourrons pas nous engager dans un quelconque projet tant que nous n’aurons pas réalisé les audits financiers.
+Il en va de même les activités organisées par les professeurs des écoles de Combaillaux et les animations périscolaires.
+
+Pour favoriser la pratique des loisirs physiques nous souhaitons également proposer l’aménagement des terrains non constructibles de la combe de la Ballajade, en relation avec les propriétaires, avec un sentier de promenade et un parcours de santé.
+
+Une réflexion devra également être menée au sujet de l’aire de jeu pour l’agrandir, ajouter du mobiliers et un faire un lieu de convivialité pour les parents.
+
 </div>
