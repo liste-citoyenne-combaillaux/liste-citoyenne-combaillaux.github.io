@@ -363,7 +363,6 @@ versants ou les hauteurs de la commune
 * Avec **un mode de fonctionnement horizontal** : pas de maire qui décide seul, mais une équipe qui construit et porte les projets collectivement
 
 
-<div class="info-box" markdown="0">
 
 ## Le comité de soutien
 
@@ -374,7 +373,6 @@ versants ou les hauteurs de la commune
 * Ezéchiel **Meireles** - 36 ans, cadre fonction publique (ARS), quartier les Pins d'Alep
 * Pierre **Pobeda** - 66 ans, artisan paysagiste JEV retraité, allée des Amandiers
 * Jean-Bernard **Rodriguez** - 62 ans, dirigeant SSII retraité, secteur Drailles 
-</div>
 
 Contactez-nous dès maintenant (<a href="mailto:contact@combaillaux-autrement.fr">contact@combaillaux-autrement.fr</a>) pour partager vos idées et/ou rejoindre l'aventure.
 
