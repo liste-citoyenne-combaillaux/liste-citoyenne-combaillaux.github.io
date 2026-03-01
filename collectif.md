@@ -307,6 +307,7 @@ h3 + p + ul {
     <div class="candidate-info">
       <span class="candidate-name">Jean-Marie <strong>Crapez</strong></span>
       <span class="candidate-details">67 ans · Professeur spécialisé déficients auditifs retraité</span>
+      <span class="candidate-location">Secteur Route de Grabels</span>
     </div>
   </div>
 
