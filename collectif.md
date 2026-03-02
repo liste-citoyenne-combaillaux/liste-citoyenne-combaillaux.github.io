@@ -313,7 +313,7 @@ h3 + p + ul {
 
   <div class="candidate-card">
     <div class="candidate-number">18</div>
-    <img src="/assets/img/equipe/18.png" alt="Laurence Tubiana" loading="lazy">
+    <img src="/assets/img/equipe/18.png" alt="Laurence Tubiana" loading="lazy" style="object-fit: contain; background: #f0f0f0;">
     <div class="candidate-info">
       <span class="candidate-name">Laurence <strong>Tubiana</strong></span>
       <span class="candidate-details">Directrice, Fondation Européenne pour le Climat</span>
