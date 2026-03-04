@@ -52,11 +52,44 @@ h3 + p + ul {
   font-weight: bold;
   margin-right: 0.5em;
 }
+
+.tract-gallery {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  justify-content: center;
+  margin: 1rem 0 2rem;
+}
+
+.tract-gallery a {
+  display: block;
+  flex: 1 1 320px;
+  max-width: 420px;
+}
+
+.tract-gallery img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
 </style>
 
 <div class="documents-page" markdown="1">
 
 Sur cette page nous mettrons au fur et à mesure les différents documents pour argumenter les choix des priorités de notre programme.
+
+## Tract numéro 3 : notre liste !
+Annonce de la réunion publique le 10 mars à 20h30 à la salle Occitanie
+
+<div class="tract-gallery">
+  <a href="/assets/img/Tract_3_recto.png" target="_blank" rel="noopener noreferrer">
+    <img src="/assets/img/Tract_3_recto.png" alt="Tract réunion publique du 10 mars 2026 - recto" loading="lazy">
+  </a>
+  <a href="/assets/img/Tract_3_verso.png" target="_blank" rel="noopener noreferrer">
+    <img src="/assets/img/Tract_3_verso.png" alt="Tract réunion publique du 10 mars 2026 - verso" loading="lazy">
+  </a>
+</div>
+
 
 ## Présentation de la réunion publique du 15 février 2026
 Le dimanche 15 février entre 10h30-12h30 nous avons organisé notre première réunion publique avec les habitants pour présenter les esquisses de notre projet électoral.
