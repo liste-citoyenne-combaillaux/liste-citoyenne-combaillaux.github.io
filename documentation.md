@@ -78,6 +78,17 @@ h3 + p + ul {
 
 Sur cette page nous mettrons au fur et à mesure les différents documents pour argumenter les choix des priorités de notre programme.
 
+
+## Document de la CCGPSL septembre 2025 - projet d'assainissement prévu
+
+Le 25 septembre 2025, la CCGPSL a présenté une [étude de faisabilité du projet relatif à Combaillaux et St Gély](documents/PRESENTATION_Etude_faisabilite_projet_assainissement_25SEPT2025.pdf) qui a fait l'objet d'une étude complémentaire et spécifiquement dédiée. Vous pouvez y trouver les différents scénarios envisagés. Notamment y sont présentées les parcelles étudiées pour la station inter-communale envisagée (pages 14-16 du document). Concernant l'étude des solutions avec l'intégration d'un lombrifiltre, il est indiqué "*En attente des retours du consortium NXO- Lombritek*". Rien n’est encore perdu aussi. 
+
+
+L'étude n'ayant pas été réceptionné, il convient de considérer ce document en tant que version provisoire et document de travail.
+
+Pour les autres éléments concernant la station d'épuration de Combaillaux, vous pouvez consulter la section dédiée à ce sujet plus bas sur cette page.
+ 
+
 ## Tract numéro 3 : notre liste !
 Il sera distribué cette semaine dans les boîtes aux lettres de tous les habitants. On y annonce aussi la seconde réunion publique du **10 mars à 20h30 à la salle Occitanie**. Venez nombreux !
 
