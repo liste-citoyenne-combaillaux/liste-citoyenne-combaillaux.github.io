@@ -319,7 +319,7 @@ Aujourd'hui retraité, je reste très impliqué dans la vie associative aux éch
 
 Notre commune est aujourd'hui confrontée à des enjeux majeurs qui nécessitent des décisions claires et des actions ambitieuses. Au sein de Combaillaux Autrement, je souhaite mettre mon expérience et mes compétences au service de notre village afin que Combaillaux conserve son attractivité, fidèle à son histoire, ainsi qu'à sa richesse et diversité paysagère.
 
-« Hâte-toi de transmettre ta part de merveilleux, de rébellion, de bienveillance » — René Char</div>
+« *Hâte-toi de transmettre ta part de merveilleux, de rébellion, de bienveillance* » — René Char</div>
 </div>
 
 <input type="checkbox" class="bio-toggle" id="bio6">
