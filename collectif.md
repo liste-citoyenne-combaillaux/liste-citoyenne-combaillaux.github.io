@@ -315,11 +315,15 @@ Depuis 6 ans mobilisée pour la défense de notre commune, de son environnement 
   </div>
   <div class="bio-text">Installé à Combaillaux depuis plus de 30 ans, ancien directeur de recherche en écologie et microbiologie environnementale, j'ai été adjoint au maire de Combaillaux en charge de l'environnement, puis président de l'Association Départementale des Anciens Maires et Adjoints de l'Hérault (ADAMA 34).
 
+  <p>
+
 Aujourd'hui retraité, je reste très impliqué dans la vie associative aux échelles locale, régionale — en tant que représentant des associations environnementales (FNE, WWF, LPO et Surfrider) d'Occitanie, PACA et Corse — et nationale, pour la préservation de la qualité des eaux et de la biodiversité des écosystèmes aquatiques et marins.
+</p>
 
+<p>
 Notre commune est aujourd'hui confrontée à des enjeux majeurs qui nécessitent des décisions claires et des actions ambitieuses. Au sein de Combaillaux Autrement, je souhaite mettre mon expérience et mes compétences au service de notre village afin que Combaillaux conserve son attractivité, fidèle à son histoire, ainsi qu'à sa richesse et diversité paysagère.
-
-« *Hâte-toi de transmettre ta part de merveilleux, de rébellion, de bienveillance* » — René Char</div>
+</p>
+« <i>Hâte-toi de transmettre ta part de merveilleux, de rébellion, de bienveillance</i> » — René Char</div>
 </div>
 
 <input type="checkbox" class="bio-toggle" id="bio6">
@@ -468,10 +472,13 @@ L'envie d'être utile, de travailler avec une équipe motivée et solidaire à l
     </div>
   </div>
   <div class="bio-text">Après plus de quarante années au service de l'Éducation nationale, où j'ai exercé des fonctions d'enseignant, de conseiller d'orientation, de directeur de CIO et de chef d'établissement, je suis aujourd'hui retraité et souhaite mettre mon expérience au service de notre commune.
-
+<p>
 Parallèlement à mon activité professionnelle, j'ai conduit pendant une dizaine d'années une activité de maraîchage biologique, expérience qui a renforcé ma conviction de la nécessité d'une agriculture respectueuse de l'environnement et ancrée dans les territoires.
-
-Profondément attaché à l'éducation et à l'éducation populaire, je crois au rôle essentiel de la vie associative pour renforcer le lien social. Je souhaite aujourd'hui contribuer à un projet municipal fondé sur l'écoute, le dialogue et la coopération, au service d'une commune solidaire, dynamique et durable.</div>
+</p>
+<p>
+Profondément attaché à l'éducation et à l'éducation populaire, je crois au rôle essentiel de la vie associative pour renforcer le lien social. Je souhaite aujourd'hui contribuer à un projet municipal fondé sur l'écoute, le dialogue et la coopération, au service d'une commune solidaire, dynamique et durable.
+</p>
+</div>
 </div>
 
 <input type="checkbox" class="bio-toggle" id="bio12">
@@ -603,9 +610,11 @@ Après plus de 3 mandats exercés par l'équipe en place, Combaillaux mérite un
   <div class="bio-text">J'habite à Combaillaux depuis plus de 10 ans. Je suis très concernée par le vivant : la cause animale, les graines reproductibles, les arbres…
 
 Mes zones d'intérêt :
-— Résilience alimentaire via nos potagers, les échanges avec les agriculteurs, préservation d'une production locale.
-— Agriculture respectueuse des sols et des riverains, bio de préférence.
-— Préservation de nos ressources en eau, restauration des puits, haies, qualité des sols.
+<ul>
+<li>Résilience alimentaire via nos potagers, les échanges avec les agriculteurs, préservation d'une production locale.</li>
+<li>Agriculture respectueuse des sols et des riverains, bio de préférence.</li>
+<li>Préservation de nos ressources en eau, restauration des puits, haies, qualité des sols.</li>
+</ul>
 
 J'espère trouver des chemins nouveaux pour que ces idées puissent prendre pleinement forme dans le concret, en concertation avec les personnes concernées et au sein de notre collectif.</div>
 </div>
@@ -718,9 +727,9 @@ Je rejoins avec plaisir et enthousiasme cette liste et suis prêt à donner mon 
     </div>
   </div>
   <div class="bio-text">Étudiante en deuxième année de droit, j'ai choisi de rejoindre le collectif Combaillaux Autrement et de m'engager sur cette liste afin de contribuer au développement de notre commune.
-
+<p>
 Après plusieurs discussions avec des personnes investies dans ce projet depuis ses débuts, j'ai pris la décision d'intégrer à mon tour cette nouvelle dynamique, engagée à porter collectivement de nouveaux projets pour Combaillaux.
-
+</p>
 Motivée à m'impliquer pour l'avenir de notre village, je suis convaincue que renouveau et évolutions sont possibles. Rejoindre Combaillaux Autrement c'est pour moi défendre des projets concrets tout en participant à une dynamique citoyenne tournée vers l'avenir de notre village.</div>
 </div>
 
