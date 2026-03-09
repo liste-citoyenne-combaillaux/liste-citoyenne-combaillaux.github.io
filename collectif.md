@@ -749,15 +749,18 @@ Motivée à m'impliquer pour l'avenir de notre village, je suis convaincue que r
     <img class="bio-photo" src="/assets/img/equipe/21.png" alt="Claude Hammecker">
     <div class="bio-title">
       <h3>Claude Hammecker</h3>
-      <div class="bio-meta">61 ans · Directeur de recherche science du sol (IRD)</div>
+      <div class="bio-meta">61 ans · Chargé de recherche science du sol (IRD)</div>
       <div class="bio-location-text">Quartier du Patus</div>
     </div>
   </div>
-  <div class="bio-text">Directeur de recherche en science du sol à l'IRD (Institut de Recherche pour le Développement), installé à Combaillaux au Quartier du Patus.
-
-Mes travaux portent sur la physique des sols, la gestion de l'eau en milieu semi-aride et les enjeux liés à la dégradation des terres. Cette expertise scientifique me sensibilise aux défis environnementaux auxquels notre commune est confrontée.
-
-Rejoindre Combaillaux Autrement, c'est pour moi mettre ces compétences au service d'un projet collectif qui place la préservation de notre environnement et la participation citoyenne au cœur de la gestion municipale.</div>
+  <div class="bio-text">Chercheur en science du sol à l’IRD (Institut de Recherche pour le Développement) et installé à Combaillaux, au quartier du Patus, depuis 2002, je travaille sur la physique des sols, la gestion de l’eau en milieu semi-aride et les enjeux liés à la dégradation des terres dans les pays du Sud.
+  <p>
+Cette expertise scientifique m’a rendu particulièrement sensible aux défis environnementaux auxquels nos territoires sont confrontés, y compris à l’échelle de notre commune.
+</p>
+<p>
+Rejoindre Combaillaux Autrement, c’est pour moi l’occasion de mettre mes compétences au service d’un projet collectif qui place la préservation de notre environnement, la gestion durable des ressources et la participation citoyenne au cœur de l’action municipale.
+</p>
+</div>
 </div>
 
 </div>
