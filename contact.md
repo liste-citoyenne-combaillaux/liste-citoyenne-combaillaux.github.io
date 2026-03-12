@@ -54,7 +54,7 @@ h3 + p + ul {
 
 
 
-### Bilan de nos deux réunions publiques
+## Bilan de nos deux réunions publiques
 Nous avons effectué nos réunions publiques le dimanche 15 février et la mardi 10 mars, et nous avons été ravis de vous retrouver en nombre pour nous écouter et échanger autour de nos propositions. Merci à toutes et à tous !
 
 Voici un petit descriptif et quelques images de la réunion du 15 février :
