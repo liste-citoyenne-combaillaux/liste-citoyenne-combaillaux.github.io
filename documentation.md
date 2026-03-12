@@ -89,10 +89,10 @@ Nous mettons en ligne le document de [Présentation de la réunion publique du 1
 Elle sera distribué cette semaine dans les boîtes aux lettres de tous les habitants. Elle fait suite à notre seconde réunion publique du **10 mars**.
 
 <div class="tract-gallery">
-  <a href="/assets/Profession_foi_Combaillaux_Autrement.pdf" target="_blank" rel="noopener noreferrer">
+  <a href="/documents/Profession_foi_Combaillaux_Autrement.pdf" target="_blank" rel="noopener noreferrer">
     <img src="/assets/img/Profession_foi_Combaillaux_Autrement-0.png" alt="Profession de foi - recto" loading="lazy">
   </a>
-  <a href="/assets/Profession_foi_Combaillaux_Autrement.pdf" target="_blank" rel="noopener noreferrer">
+  <a href="/documents/Profession_foi_Combaillaux_Autrement.pdf" target="_blank" rel="noopener noreferrer">
     <img src="/assets/img/Profession_foi_Combaillaux_Autrement-1.png" alt="Profession de foi - verso" loading="lazy">
   </a>
 </div>

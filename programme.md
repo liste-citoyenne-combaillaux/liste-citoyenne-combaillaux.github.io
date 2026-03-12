@@ -137,7 +137,6 @@ h3 + p + ul {
 
 3. **🏛️ Investir dans le logement communal et le patrimoine**
 
-   * Rénovation de l'ancienne Mairie pour le logement social ou locatif abordable, dossier de subvention Région/Département
    * Valorisation du patrimoine : vieux village (ruelles, façades), signalétique culturelle, animations ponctuelles (visites guidées, fête du patrimoine, expositions des vestiges archéologiques)
    * Valorisation de la Roque des Sajolles
    * Rénovation du vieux cimetière
