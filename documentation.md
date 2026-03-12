@@ -79,6 +79,26 @@ h3 + p + ul {
 Sur cette page nous mettrons au fur et à mesure les différents documents pour argumenter les choix des priorités de notre programme.
 
 
+## Présentation de la réunion publique du 10 mars 2026
+Le mardi 10 mars à 20h30 nous avons organisé notre première réunion publique avec les habitants pour présenter les esquisses de notre projet électoral.
+
+Nous mettons en ligne le document de [Présentation de la réunion publique du 10 mars 2026](documents/Presentation_Combaillaux_Autrement_10mars.pdf).
+
+
+## La profession de foi !
+Elle sera distribué cette semaine dans les boîtes aux lettres de tous les habitants. Elle fait suite à notre seconde réunion publique du **10 mars**.
+
+<div class="tract-gallery">
+  <a href="/assets/Profession_foi_Combaillaux_Autrement.pdf" target="_blank" rel="noopener noreferrer">
+    <img src="/assets/img/Profession_foi_Combaillaux_Autrement-0.png" alt="Profession de foi - recto" loading="lazy">
+  </a>
+  <a href="/assets/Profession_foi_Combaillaux_Autrement.pdf" target="_blank" rel="noopener noreferrer">
+    <img src="/assets/img/Profession_foi_Combaillaux_Autrement-1.png" alt="Profession de foi - verso" loading="lazy">
+  </a>
+</div>
+
+
+
 ## Document de la CCGPSL septembre 2025 - projet d'assainissement prévu
 
 Le 25 septembre 2025, la CCGPSL a présenté le document suivant :
