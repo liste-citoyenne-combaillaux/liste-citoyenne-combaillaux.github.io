@@ -57,7 +57,12 @@ h3 + p + ul {
 ## Bilan de nos deux réunions publiques
 Nous avons effectué nos réunions publiques le dimanche 15 février et la mardi 10 mars, et nous avons été ravis de vous retrouver en nombre pour nous écouter et échanger autour de nos propositions. Merci à toutes et à tous !
 
-Voici un petit descriptif et quelques images de la réunion du 15 février :
+Voici un petit descriptif et quelques images de la réunion du 10 mars :
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid0XsMnDofu76ya9yPuzuMw6VpdMczbHDdkzJvvokTdHTMNmx2Z8hfNEKZyEof8rgoxl%26id%3D61587762264642&show_text=true&width=500" width="500" height="731" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+
+
+Et voici un petit descriptif et quelques images de la réunion du 15 février :
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid05jHnmcLCmsAw59NzWsDHR8KjEi6m7kcU3ESsF89Sy7cfCMsSo7UqxKjJPiHzUXxLl%26id%3D61587762264642&show_text=true&width=500" width="500" height="690" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
 

@@ -13,11 +13,13 @@ Vouz avez le choix : ne rien changer ou **porter une équipe nouvelle aux respon
 Plusieurs dizaines d'habitants sont venus nous écouter et poser des questions le dimanche 15 février et le mardi 10 mars. Merci à tous ! Cela nous a permis à la fois de présenter notre projet, de recenser les préoccupations des habitants, ainsi que les points de notre programme à approfondir.
 
 
+Voici un petit descriptif et quelques images de la seconde réunion (10 mars) :
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid0XsMnDofu76ya9yPuzuMw6VpdMczbHDdkzJvvokTdHTMNmx2Z8hfNEKZyEof8rgoxl%26id%3D61587762264642&show_text=true&width=500" width="500" height="731" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
-Voici quelques images de la première réunion :
+
+
+Voici quelques images de la première réunion (15 février) :
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid05jHnmcLCmsAw59NzWsDHR8KjEi6m7kcU3ESsF89Sy7cfCMsSo7UqxKjJPiHzUXxLl%26id%3D61587762264642&show_text=true&width=500" width="500" height="690" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
-
-Les images de la deuxième réunion sont à venir
 
 ---
 
