@@ -80,9 +80,11 @@ Sur cette page nous mettrons au fur et à mesure les différents documents pour 
 
 
 ## Présentation de la réunion publique du 10 mars 2026
-Le mardi 10 mars à 20h30 nous avons organisé notre première réunion publique avec les habitants pour présenter les esquisses de notre projet électoral.
+Le mardi 10 mars à 20h30 nous avons organisé notre seconde réunion publique avec les habitants pour présenter les esquisses de notre projet électoral.
 
 Nous mettons en ligne le document de [Présentation de la réunion publique du 10 mars 2026](documents/Presentation_Combaillaux_Autrement_10mars.pdf).
+
+On mettra quelques photos de cette réunion dès que possible.
 
 
 ## La profession de foi !
@@ -113,7 +115,7 @@ Pour les autres éléments concernant la station d'épuration de Combaillaux, vo
  
 
 ## Tract numéro 3 : notre liste !
-Il sera distribué cette semaine dans les boîtes aux lettres de tous les habitants. On y annonce aussi la seconde réunion publique du **10 mars à 20h30 à la salle Occitanie**. Venez nombreux !
+Il sera distribué cette semaine dans les boîtes aux lettres de tous les habitants. On y annonce aussi la seconde réunion publique du **10 mars à 20h30 à la salle Occitanie**.
 
 <div class="tract-gallery">
   <a href="/assets/img/Tract_3_recto.png" target="_blank" rel="noopener noreferrer">
