@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Contactez, réjoignez-nous !
+title: Restons en contact !
 ---
 
 <style>
@@ -67,18 +67,12 @@ Et voici un petit descriptif et quelques images de la réunion du 15 février :
 
 
 <div class="contact-page" markdown="1">
-Vous êtes intéressé, n'hésitez pas à **nous contacter (<a href="mailto:contact@combaillaux-autrement.fr">contact@combaillaux-autrement.fr</a>)** pour :
-* nous poser des questions,
-* nous faire part de vos attentes,
-* rejoindre le collectif et participer aux ateliers de travail.
+Merci à toutes et à tous pour votre soutien tout au long de cette campagne ! N'hésitez pas à **nous écrire (<a href="mailto:contact@combaillaux-autrement.fr">contact@combaillaux-autrement.fr</a>)** — nous restons à l'écoute.
 
-
-**On sera présent au cours des prochaines semaines pour tracter, se rencontrer, nous présenter et échanger sur les projets à mener sur notre commune ! À bientôt !**
-
-Suivez-nous sur les réseaux sociaux pour être au courant de nos actualités et de nos événements :
+Suivez-nous sur les réseaux sociaux :
 * [Facebook](https://www.facebook.com/people/Combaillaux-Autrement/61587762264642/)
 * [Instagram](https://www.instagram.com/combaillaux.autrement)
 
 
-Que l'on perde ou que l'on gagne ces élections, nous constituons une équipe dynamique qui ne s'arrêtera pas en chemin !
+**Combaillaux Autrement reste une équipe dynamique et solidaire. L'aventure continue !**
 </div>

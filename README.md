@@ -1,12 +1,8 @@
-# CRÉONS DES LIENS ET AGISSONS ENSEMBLE
+# MERCI À TOUTES ET À TOUS !
 
-**Combaillaux mérite un nouveau départ.**
+Les élections municipales sont passées et le résultat n'a pas été celui que nous espérions. Nous tenons à **remercier chaleureusement** toutes celles et ceux qui nous ont fait confiance, qui sont venus à nos réunions, qui ont partagé leurs idées et leur envie de faire bouger les choses à Combaillaux.
 
-En vue des élections municipales, notre collectif s'est formé pour proposer aux combaillaulencs un projet différent de celui en place depuis deux décennies. C'est une **liste citoyenne municipale** à l'initiative des habitants et habitantes de Combaillaux. Nous construisons ensemble notre projet à travers des réunions régulières et ouvertes, où chacun peut débattre, proposer, affiner les axes prioritaires. C'est cette dynamique collective qui fait notre force.
-
-Aujourd'hui, nous voulons gagner cette élection pour **administrer Combaillaux autrement** — avec transparence, concertation et véritable participation citoyenne.
-
-Vouz avez le choix : ne rien changer ou **porter une équipe nouvelle aux responsabilités**, une équipe qui s'engage à diriger différemment et à apporter les changements que notre village attend.
+Cette aventure collective a été **bien plus qu'une campagne**. Elle a montré qu'il est possible de rassembler des citoyens autour d'un projet commun, dans l'écoute et le respect. Nos valeurs de **transparence, de concertation et de participation citoyenne** restent intactes, et nous continuons à les porter.
 
 
 ### Retour sur nos deux réunions publiques 
@@ -25,8 +21,8 @@ Voici quelques images de la première réunion (15 février) :
 
 ### Restons en contact
 
-* Suivez notre actualité sur [Facebook](https://www.facebook.com/share/14ZXMKa5BjK/?mibextid=wwXIfr)
-* Des questions ? Des idées ? Contactez-nous (<a href="mailto:contact@combaillaux-autrement.fr">contact@combaillaux-autrement.fr</a>) — nous serions ravis d'échanger avec vous.
+* Retrouvez-nous sur [Facebook](https://www.facebook.com/share/14ZXMKa5BjK/?mibextid=wwXIfr)
+* Écrivez-nous : <a href="mailto:contact@combaillaux-autrement.fr">contact@combaillaux-autrement.fr</a>
 
 
-**Rejoignez notre équipe !** Votre participation fait la différence.
+**Combaillaux Autrement continue. À bientôt !**
