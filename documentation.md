@@ -76,7 +76,13 @@ h3 + p + ul {
 
 <div class="documents-page" markdown="1">
 
-Sur cette page nous mettrons au fur et à mesure les différents documents pour argumenter les choix des priorités de notre programme.
+**Les élections municipales du 15 mars 2026 sont passées.** 33.78% des votants ont choisi notre liste, ce qui nous a permis d'obtenir **3 sièges au Conseil Municipal**. Merci à toutes et à tous pour votre confiance !
+
+Ce site reste en ligne comme **archive de notre travail collectif** et de la documentation que nous avons rassemblée pendant la campagne. Nous resterons actifs ici, sur les réseaux sociaux et bien au-delà — suivez-nous sur [Facebook](https://www.facebook.com/people/Combaillaux-Autrement/61587762264642/) et [Instagram](https://www.instagram.com/combaillaux.autrement) pour ne rien manquer de la suite de l'aventure Combaillaux Autrement !
+
+---
+
+Voici les différents documents et actualités rassemblés au cours de notre campagne.
 
 
 ## Présentation de la réunion publique du 10 mars 2026
@@ -162,7 +168,7 @@ Ces éléments ne relèvent pas d’une interprétation politique, mais du droit
 
 Il est essentiel que les habitants disposent d’une information complète et sincère sur les marges de manœuvre réelles de la commune.
 
-Mobilisons-nous et **soutenez notre projet électoral**. Si nous gagnons ces élections, **nous demanderons des éclaircissements sur les scénarios envisagés et sur leurs évaluations financières tant en investissement que fonctionnement**. Nous nous batterons ensemble avec tous les habitants de Combaillaux pour que l'on ne nous impose pas la solution d'une station commune Combaillaux et St Gély, sur Combaillaux ! Et ce, en proposant des alternatives crédibles, scientifiquement argumentées et avec l'appui de tous les habitants.
+Grâce à nos 3 élus au Conseil Municipal, **nous continuerons à demander des éclaircissements sur les scénarios envisagés et sur leurs évaluations financières tant en investissement que fonctionnement**. Nous nous battrons avec tous les habitants de Combaillaux pour que l'on ne nous impose pas la solution d'une station commune Combaillaux et St Gély, sur Combaillaux — en proposant des alternatives crédibles, scientifiquement argumentées et avec l'appui de tous les habitants.
 
 
 ## Pistes cyclables
