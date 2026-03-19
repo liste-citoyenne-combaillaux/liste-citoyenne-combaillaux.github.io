@@ -1,8 +1,10 @@
 # MERCI À TOUTES ET À TOUS !
 
-Les élections municipales sont passées et le résultat n'a pas été celui que nous espérions. Nous tenons à **remercier chaleureusement** toutes celles et ceux qui nous ont fait confiance, qui sont venus à nos réunions, qui ont partagé leurs idées et leur envie de faire bouger les choses à Combaillaux.
+Les élections municipales sont passées et le vote citoyen a donné une majorité à l'équipe sortante. 33.78% de votants ont choisi notre liste ce qui nous a permis d'obtenir 3 sièges au Conseil Municipal (sur 19).
 
-Cette aventure collective a été **bien plus qu'une campagne**. Elle a montré qu'il est possible de rassembler des citoyens autour d'un projet commun, dans l'écoute et le respect. Nos valeurs de **transparence, de concertation et de participation citoyenne** restent intactes, et nous continuons à les porter.
+Nous tenons à **remercier chaleureusement** toutes celles et ceux qui nous ont fait confiance, qui sont venus à nos réunions, qui ont partagé leurs idées et leur envie de faire bouger les choses à Combaillaux.
+
+Cette aventure collective a été **bien plus qu'une campagne**. Elle a montré qu'il est possible de rassembler des citoyens autour d'un projet commun, dans l'écoute et le respect. Nos valeurs de **transparence, de concertation et de participation citoyenne** restent intactes, et nous continuons à les porter au sein du Conseil Municipal de Combaillaux et à travers des actions concrètes sur le terrain.
 
 
 ### Retour sur nos deux réunions publiques 
