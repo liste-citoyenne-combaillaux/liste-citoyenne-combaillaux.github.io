@@ -138,6 +138,21 @@ Le dimanche 15 février entre 10h30-12h30 nous avons organisé notre première r
 
 Nous mettons en ligne le document de [Présentation de la réunion publique du 15 février 2026](documents/Presentation_reunion_publique_15_fevrier_2026.pdf).
 
+
+## Tract numéro 2 : annonce de la première réunion publique !
+Il sera distribué cette semaine dans les boîtes aux lettres de tous les habitants. On y annonce aussi la première réunion publique du **15 février à 10h30 à la salle Occitanie**.
+
+<div class="tract-gallery">
+  <a href="/assets/img/Tract_2_recto.png" target="_blank" rel="noopener noreferrer">
+    <img src="/assets/img/Tract_2_recto.png" alt="Tract réunion publique du 10 mars 2026 - recto" loading="lazy">
+  </a>
+  <a href="/assets/img/Tract_2_verso.png" target="_blank" rel="noopener noreferrer">
+    <img src="/assets/img/Tract_2_verso.png" alt="Tract réunion publique du 10 mars 2026 - verso" loading="lazy">
+  </a>
+</div>
+
+
+
 ## Lombristation - Station d'épuration (STEP) de Combaillaux
 Dans cette section nous avons essayé de rassembler un maximum de **documents officiels** concernant les problèmes de dysfonctionnement de la station d'épuration de Combaillaux (lit bactérien, lombrifiltre et lagunage). Ce qui nous motive dans notre programme électoral, c'est l'absence totale de concertation de la population sur ce sujet : ni lettre d'information aux habitants, ni une mention dans le journal municipal Aïol, ni réunion publique.
 
